@@ -1,0 +1,2473 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Google.Cloud.Functions.Framework
+  name: Google.Cloud.Functions.Framework
+  href: api/Google.Cloud.Functions.Framework.html
+  commentId: N:Google.Cloud.Functions.Framework
+  fullName: Google.Cloud.Functions.Framework
+  nameWithType: Google.Cloud.Functions.Framework
+- uid: Google.Cloud.Functions.Framework.SentryStartup
+  name: SentryStartup
+  href: api/Google.Cloud.Functions.Framework.SentryStartup.html
+  commentId: T:Google.Cloud.Functions.Framework.SentryStartup
+  fullName: Google.Cloud.Functions.Framework.SentryStartup
+  nameWithType: SentryStartup
+- uid: Google.Cloud.Functions.Framework.SentryStartup.Configure(WebHostBuilderContext,IApplicationBuilder)
+  name: Configure(WebHostBuilderContext, IApplicationBuilder)
+  href: api/Google.Cloud.Functions.Framework.SentryStartup.html#Google_Cloud_Functions_Framework_SentryStartup_Configure_WebHostBuilderContext_IApplicationBuilder_
+  commentId: M:Google.Cloud.Functions.Framework.SentryStartup.Configure(WebHostBuilderContext,IApplicationBuilder)
+  fullName: Google.Cloud.Functions.Framework.SentryStartup.Configure(WebHostBuilderContext, IApplicationBuilder)
+  nameWithType: SentryStartup.Configure(WebHostBuilderContext, IApplicationBuilder)
+- uid: Google.Cloud.Functions.Framework.SentryStartup.Configure*
+  name: Configure
+  href: api/Google.Cloud.Functions.Framework.SentryStartup.html#Google_Cloud_Functions_Framework_SentryStartup_Configure_
+  commentId: Overload:Google.Cloud.Functions.Framework.SentryStartup.Configure
+  isSpec: "True"
+  fullName: Google.Cloud.Functions.Framework.SentryStartup.Configure
+  nameWithType: SentryStartup.Configure
+- uid: Google.Cloud.Functions.Framework.SentryStartup.ConfigureLogging(WebHostBuilderContext,ILoggingBuilder)
+  name: ConfigureLogging(WebHostBuilderContext, ILoggingBuilder)
+  href: api/Google.Cloud.Functions.Framework.SentryStartup.html#Google_Cloud_Functions_Framework_SentryStartup_ConfigureLogging_WebHostBuilderContext_ILoggingBuilder_
+  commentId: M:Google.Cloud.Functions.Framework.SentryStartup.ConfigureLogging(WebHostBuilderContext,ILoggingBuilder)
+  fullName: Google.Cloud.Functions.Framework.SentryStartup.ConfigureLogging(WebHostBuilderContext, ILoggingBuilder)
+  nameWithType: SentryStartup.ConfigureLogging(WebHostBuilderContext, ILoggingBuilder)
+- uid: Google.Cloud.Functions.Framework.SentryStartup.ConfigureLogging*
+  name: ConfigureLogging
+  href: api/Google.Cloud.Functions.Framework.SentryStartup.html#Google_Cloud_Functions_Framework_SentryStartup_ConfigureLogging_
+  commentId: Overload:Google.Cloud.Functions.Framework.SentryStartup.ConfigureLogging
+  isSpec: "True"
+  fullName: Google.Cloud.Functions.Framework.SentryStartup.ConfigureLogging
+  nameWithType: SentryStartup.ConfigureLogging
+- uid: Google.Cloud.Functions.Framework.SentryStartup.ConfigureServices(WebHostBuilderContext,IServiceCollection)
+  name: ConfigureServices(WebHostBuilderContext, IServiceCollection)
+  href: api/Google.Cloud.Functions.Framework.SentryStartup.html#Google_Cloud_Functions_Framework_SentryStartup_ConfigureServices_WebHostBuilderContext_IServiceCollection_
+  commentId: M:Google.Cloud.Functions.Framework.SentryStartup.ConfigureServices(WebHostBuilderContext,IServiceCollection)
+  fullName: Google.Cloud.Functions.Framework.SentryStartup.ConfigureServices(WebHostBuilderContext, IServiceCollection)
+  nameWithType: SentryStartup.ConfigureServices(WebHostBuilderContext, IServiceCollection)
+- uid: Google.Cloud.Functions.Framework.SentryStartup.ConfigureServices*
+  name: ConfigureServices
+  href: api/Google.Cloud.Functions.Framework.SentryStartup.html#Google_Cloud_Functions_Framework_SentryStartup_ConfigureServices_
+  commentId: Overload:Google.Cloud.Functions.Framework.SentryStartup.ConfigureServices
+  isSpec: "True"
+  fullName: Google.Cloud.Functions.Framework.SentryStartup.ConfigureServices
+  nameWithType: SentryStartup.ConfigureServices
+- uid: Microsoft.AspNetCore.Builder
+  name: Microsoft.AspNetCore.Builder
+  href: api/Microsoft.AspNetCore.Builder.html
+  commentId: N:Microsoft.AspNetCore.Builder
+  fullName: Microsoft.AspNetCore.Builder
+  nameWithType: Microsoft.AspNetCore.Builder
+- uid: Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions
+  name: SentryTracingMiddlewareExtensions
+  href: api/Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.html
+  commentId: T:Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions
+  fullName: Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions
+  nameWithType: SentryTracingMiddlewareExtensions
+- uid: Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.UseSentryTracing(IApplicationBuilder)
+  name: UseSentryTracing(IApplicationBuilder)
+  href: api/Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.html#Microsoft_AspNetCore_Builder_SentryTracingMiddlewareExtensions_UseSentryTracing_IApplicationBuilder_
+  commentId: M:Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.UseSentryTracing(IApplicationBuilder)
+  fullName: Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.UseSentryTracing(IApplicationBuilder)
+  nameWithType: SentryTracingMiddlewareExtensions.UseSentryTracing(IApplicationBuilder)
+- uid: Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.UseSentryTracing*
+  name: UseSentryTracing
+  href: api/Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.html#Microsoft_AspNetCore_Builder_SentryTracingMiddlewareExtensions_UseSentryTracing_
+  commentId: Overload:Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.UseSentryTracing
+  isSpec: "True"
+  fullName: Microsoft.AspNetCore.Builder.SentryTracingMiddlewareExtensions.UseSentryTracing
+  nameWithType: SentryTracingMiddlewareExtensions.UseSentryTracing
+- uid: Microsoft.AspNetCore.Hosting
+  name: Microsoft.AspNetCore.Hosting
+  href: api/Microsoft.AspNetCore.Hosting.html
+  commentId: N:Microsoft.AspNetCore.Hosting
+  fullName: Microsoft.AspNetCore.Hosting
+  nameWithType: Microsoft.AspNetCore.Hosting
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions
+  name: SentryWebHostBuilderExtensions
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html
+  commentId: T:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions
+  nameWithType: SentryWebHostBuilderExtensions
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.AddSentryTunneling(IServiceCollection,System.String[])
+  name: AddSentryTunneling(IServiceCollection, String[])
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_AddSentryTunneling_IServiceCollection_System_String___
+  commentId: M:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.AddSentryTunneling(IServiceCollection,System.String[])
+  name.vb: AddSentryTunneling(IServiceCollection, String())
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.AddSentryTunneling(IServiceCollection, System.String[])
+  fullName.vb: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.AddSentryTunneling(IServiceCollection, System.String())
+  nameWithType: SentryWebHostBuilderExtensions.AddSentryTunneling(IServiceCollection, String[])
+  nameWithType.vb: SentryWebHostBuilderExtensions.AddSentryTunneling(IServiceCollection, String())
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.AddSentryTunneling*
+  name: AddSentryTunneling
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_AddSentryTunneling_
+  commentId: Overload:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.AddSentryTunneling
+  isSpec: "True"
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.AddSentryTunneling
+  nameWithType: SentryWebHostBuilderExtensions.AddSentryTunneling
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder)
+  name: UseSentry(IWebHostBuilder)
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentry_IWebHostBuilder_
+  commentId: M:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder)
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder)
+  nameWithType: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder)
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.Nullable{Action{Sentry.AspNetCore.ISentryBuilder}})
+  name: UseSentry(IWebHostBuilder, Nullable<Action<ISentryBuilder>>)
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentry_IWebHostBuilder_System_Nullable_Action_Sentry_AspNetCore_ISentryBuilder___
+  commentId: M:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.Nullable{Action{Sentry.AspNetCore.ISentryBuilder}})
+  name.vb: UseSentry(IWebHostBuilder, Nullable(Of Action(Of ISentryBuilder)))
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.Nullable<Action<Sentry.AspNetCore.ISentryBuilder>>)
+  fullName.vb: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.Nullable(Of Action(Of Sentry.AspNetCore.ISentryBuilder)))
+  nameWithType: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, Nullable<Action<ISentryBuilder>>)
+  nameWithType.vb: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, Nullable(Of Action(Of ISentryBuilder)))
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.Nullable{Action{Sentry.AspNetCore.SentryAspNetCoreOptions}})
+  name: UseSentry(IWebHostBuilder, Nullable<Action<SentryAspNetCoreOptions>>)
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentry_IWebHostBuilder_System_Nullable_Action_Sentry_AspNetCore_SentryAspNetCoreOptions___
+  commentId: M:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.Nullable{Action{Sentry.AspNetCore.SentryAspNetCoreOptions}})
+  name.vb: UseSentry(IWebHostBuilder, Nullable(Of Action(Of SentryAspNetCoreOptions)))
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.Nullable<Action<Sentry.AspNetCore.SentryAspNetCoreOptions>>)
+  fullName.vb: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.Nullable(Of Action(Of Sentry.AspNetCore.SentryAspNetCoreOptions)))
+  nameWithType: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, Nullable<Action<SentryAspNetCoreOptions>>)
+  nameWithType.vb: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, Nullable(Of Action(Of SentryAspNetCoreOptions)))
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.Nullable{Action{WebHostBuilderContext,Sentry.AspNetCore.ISentryBuilder}})
+  name: UseSentry(IWebHostBuilder, Nullable<Action<WebHostBuilderContext, ISentryBuilder>>)
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentry_IWebHostBuilder_System_Nullable_Action_WebHostBuilderContext_Sentry_AspNetCore_ISentryBuilder___
+  commentId: M:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.Nullable{Action{WebHostBuilderContext,Sentry.AspNetCore.ISentryBuilder}})
+  name.vb: UseSentry(IWebHostBuilder, Nullable(Of Action(Of WebHostBuilderContext, ISentryBuilder)))
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.Nullable<Action<WebHostBuilderContext, Sentry.AspNetCore.ISentryBuilder>>)
+  fullName.vb: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.Nullable(Of Action(Of WebHostBuilderContext, Sentry.AspNetCore.ISentryBuilder)))
+  nameWithType: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, Nullable<Action<WebHostBuilderContext, ISentryBuilder>>)
+  nameWithType.vb: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, Nullable(Of Action(Of WebHostBuilderContext, ISentryBuilder)))
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.Nullable{Action{WebHostBuilderContext,Sentry.AspNetCore.SentryAspNetCoreOptions}})
+  name: UseSentry(IWebHostBuilder, Nullable<Action<WebHostBuilderContext, SentryAspNetCoreOptions>>)
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentry_IWebHostBuilder_System_Nullable_Action_WebHostBuilderContext_Sentry_AspNetCore_SentryAspNetCoreOptions___
+  commentId: M:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.Nullable{Action{WebHostBuilderContext,Sentry.AspNetCore.SentryAspNetCoreOptions}})
+  name.vb: UseSentry(IWebHostBuilder, Nullable(Of Action(Of WebHostBuilderContext, SentryAspNetCoreOptions)))
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.Nullable<Action<WebHostBuilderContext, Sentry.AspNetCore.SentryAspNetCoreOptions>>)
+  fullName.vb: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.Nullable(Of Action(Of WebHostBuilderContext, Sentry.AspNetCore.SentryAspNetCoreOptions)))
+  nameWithType: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, Nullable<Action<WebHostBuilderContext, SentryAspNetCoreOptions>>)
+  nameWithType.vb: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, Nullable(Of Action(Of WebHostBuilderContext, SentryAspNetCoreOptions)))
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.String)
+  name: UseSentry(IWebHostBuilder, String)
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentry_IWebHostBuilder_System_String_
+  commentId: M:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder,System.String)
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, System.String)
+  nameWithType: SentryWebHostBuilderExtensions.UseSentry(IWebHostBuilder, String)
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry*
+  name: UseSentry
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentry_
+  commentId: Overload:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry
+  isSpec: "True"
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentry
+  nameWithType: SentryWebHostBuilderExtensions.UseSentry
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentryTunneling(IApplicationBuilder,System.String)
+  name: UseSentryTunneling(IApplicationBuilder, String)
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentryTunneling_IApplicationBuilder_System_String_
+  commentId: M:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentryTunneling(IApplicationBuilder,System.String)
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentryTunneling(IApplicationBuilder, System.String)
+  nameWithType: SentryWebHostBuilderExtensions.UseSentryTunneling(IApplicationBuilder, String)
+- uid: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentryTunneling*
+  name: UseSentryTunneling
+  href: api/Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.html#Microsoft_AspNetCore_Hosting_SentryWebHostBuilderExtensions_UseSentryTunneling_
+  commentId: Overload:Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentryTunneling
+  isSpec: "True"
+  fullName: Microsoft.AspNetCore.Hosting.SentryWebHostBuilderExtensions.UseSentryTunneling
+  nameWithType: SentryWebHostBuilderExtensions.UseSentryTunneling
+- uid: Microsoft.Extensions.DependencyInjection
+  name: Microsoft.Extensions.DependencyInjection
+  href: api/Microsoft.Extensions.DependencyInjection.html
+  commentId: N:Microsoft.Extensions.DependencyInjection
+  fullName: Microsoft.Extensions.DependencyInjection
+  nameWithType: Microsoft.Extensions.DependencyInjection
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html
+  commentId: T:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry(IServiceCollection)
+  name: AddSentry(IServiceCollection)
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddSentry_IServiceCollection_
+  commentId: M:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry(IServiceCollection)
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry(IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.AddSentry(IServiceCollection)
+- uid: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry*
+  name: AddSentry
+  href: api/Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Microsoft_Extensions_DependencyInjection_ServiceCollectionExtensions_AddSentry_
+  commentId: Overload:Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry
+  isSpec: "True"
+  fullName: Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry
+  nameWithType: ServiceCollectionExtensions.AddSentry
+- uid: Microsoft.Extensions.Logging
+  name: Microsoft.Extensions.Logging
+  href: api/Microsoft.Extensions.Logging.html
+  commentId: N:Microsoft.Extensions.Logging
+  fullName: Microsoft.Extensions.Logging
+  nameWithType: Microsoft.Extensions.Logging
+- uid: Microsoft.Extensions.Logging.LoggingBuilderExtensions
+  name: LoggingBuilderExtensions
+  href: api/Microsoft.Extensions.Logging.LoggingBuilderExtensions.html
+  commentId: T:Microsoft.Extensions.Logging.LoggingBuilderExtensions
+  fullName: Microsoft.Extensions.Logging.LoggingBuilderExtensions
+  nameWithType: LoggingBuilderExtensions
+- uid: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder)
+  name: AddSentry(ILoggingBuilder)
+  href: api/Microsoft.Extensions.Logging.LoggingBuilderExtensions.html#Microsoft_Extensions_Logging_LoggingBuilderExtensions_AddSentry_ILoggingBuilder_
+  commentId: M:Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder)
+  fullName: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder)
+  nameWithType: LoggingBuilderExtensions.AddSentry(ILoggingBuilder)
+- uid: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder,System.Nullable{Action{Sentry.Extensions.Logging.SentryLoggingOptions}})
+  name: AddSentry(ILoggingBuilder, Nullable<Action<SentryLoggingOptions>>)
+  href: api/Microsoft.Extensions.Logging.LoggingBuilderExtensions.html#Microsoft_Extensions_Logging_LoggingBuilderExtensions_AddSentry_ILoggingBuilder_System_Nullable_Action_Sentry_Extensions_Logging_SentryLoggingOptions___
+  commentId: M:Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder,System.Nullable{Action{Sentry.Extensions.Logging.SentryLoggingOptions}})
+  name.vb: AddSentry(ILoggingBuilder, Nullable(Of Action(Of SentryLoggingOptions)))
+  fullName: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder, System.Nullable<Action<Sentry.Extensions.Logging.SentryLoggingOptions>>)
+  fullName.vb: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder, System.Nullable(Of Action(Of Sentry.Extensions.Logging.SentryLoggingOptions)))
+  nameWithType: LoggingBuilderExtensions.AddSentry(ILoggingBuilder, Nullable<Action<SentryLoggingOptions>>)
+  nameWithType.vb: LoggingBuilderExtensions.AddSentry(ILoggingBuilder, Nullable(Of Action(Of SentryLoggingOptions)))
+- uid: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder,System.String)
+  name: AddSentry(ILoggingBuilder, String)
+  href: api/Microsoft.Extensions.Logging.LoggingBuilderExtensions.html#Microsoft_Extensions_Logging_LoggingBuilderExtensions_AddSentry_ILoggingBuilder_System_String_
+  commentId: M:Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder,System.String)
+  fullName: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry(ILoggingBuilder, System.String)
+  nameWithType: LoggingBuilderExtensions.AddSentry(ILoggingBuilder, String)
+- uid: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry*
+  name: AddSentry
+  href: api/Microsoft.Extensions.Logging.LoggingBuilderExtensions.html#Microsoft_Extensions_Logging_LoggingBuilderExtensions_AddSentry_
+  commentId: Overload:Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.LoggingBuilderExtensions.AddSentry
+  nameWithType: LoggingBuilderExtensions.AddSentry
+- uid: Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions
+  name: SentryLoggerFactoryExtensions
+  href: api/Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.html
+  commentId: T:Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions
+  fullName: Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions
+  nameWithType: SentryLoggerFactoryExtensions
+- uid: Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.AddSentry(ILoggerFactory,System.Nullable{Action{Sentry.Extensions.Logging.SentryLoggingOptions}})
+  name: AddSentry(ILoggerFactory, Nullable<Action<SentryLoggingOptions>>)
+  href: api/Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.html#Microsoft_Extensions_Logging_SentryLoggerFactoryExtensions_AddSentry_ILoggerFactory_System_Nullable_Action_Sentry_Extensions_Logging_SentryLoggingOptions___
+  commentId: M:Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.AddSentry(ILoggerFactory,System.Nullable{Action{Sentry.Extensions.Logging.SentryLoggingOptions}})
+  name.vb: AddSentry(ILoggerFactory, Nullable(Of Action(Of SentryLoggingOptions)))
+  fullName: Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.AddSentry(ILoggerFactory, System.Nullable<Action<Sentry.Extensions.Logging.SentryLoggingOptions>>)
+  fullName.vb: Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.AddSentry(ILoggerFactory, System.Nullable(Of Action(Of Sentry.Extensions.Logging.SentryLoggingOptions)))
+  nameWithType: SentryLoggerFactoryExtensions.AddSentry(ILoggerFactory, Nullable<Action<SentryLoggingOptions>>)
+  nameWithType.vb: SentryLoggerFactoryExtensions.AddSentry(ILoggerFactory, Nullable(Of Action(Of SentryLoggingOptions)))
+- uid: Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.AddSentry*
+  name: AddSentry
+  href: api/Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.html#Microsoft_Extensions_Logging_SentryLoggerFactoryExtensions_AddSentry_
+  commentId: Overload:Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.AddSentry
+  isSpec: "True"
+  fullName: Microsoft.Extensions.Logging.SentryLoggerFactoryExtensions.AddSentry
+  nameWithType: SentryLoggerFactoryExtensions.AddSentry
+- uid: NLog
+  name: NLog
+  href: api/NLog.html
+  commentId: N:NLog
+  fullName: NLog
+  nameWithType: NLog
+- uid: NLog.ConfigurationExtensions
+  name: ConfigurationExtensions
+  href: api/NLog.ConfigurationExtensions.html
+  commentId: T:NLog.ConfigurationExtensions
+  fullName: NLog.ConfigurationExtensions
+  nameWithType: ConfigurationExtensions
+- uid: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration,System.Nullable{Action{SentryNLogOptions}})
+  name: AddSentry(LoggingConfiguration, Nullable<Action<SentryNLogOptions>>)
+  href: api/NLog.ConfigurationExtensions.html#NLog_ConfigurationExtensions_AddSentry_LoggingConfiguration_System_Nullable_Action_SentryNLogOptions___
+  commentId: M:NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration,System.Nullable{Action{SentryNLogOptions}})
+  name.vb: AddSentry(LoggingConfiguration, Nullable(Of Action(Of SentryNLogOptions)))
+  fullName: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration, System.Nullable<Action<SentryNLogOptions>>)
+  fullName.vb: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration, System.Nullable(Of Action(Of SentryNLogOptions)))
+  nameWithType: ConfigurationExtensions.AddSentry(LoggingConfiguration, Nullable<Action<SentryNLogOptions>>)
+  nameWithType.vb: ConfigurationExtensions.AddSentry(LoggingConfiguration, Nullable(Of Action(Of SentryNLogOptions)))
+- uid: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration,System.Nullable{System.String},System.Nullable{Action{SentryNLogOptions}})
+  name: AddSentry(LoggingConfiguration, Nullable<String>, Nullable<Action<SentryNLogOptions>>)
+  href: api/NLog.ConfigurationExtensions.html#NLog_ConfigurationExtensions_AddSentry_LoggingConfiguration_System_Nullable_System_String__System_Nullable_Action_SentryNLogOptions___
+  commentId: M:NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration,System.Nullable{System.String},System.Nullable{Action{SentryNLogOptions}})
+  name.vb: AddSentry(LoggingConfiguration, Nullable(Of String), Nullable(Of Action(Of SentryNLogOptions)))
+  fullName: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration, System.Nullable<System.String>, System.Nullable<Action<SentryNLogOptions>>)
+  fullName.vb: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration, System.Nullable(Of System.String), System.Nullable(Of Action(Of SentryNLogOptions)))
+  nameWithType: ConfigurationExtensions.AddSentry(LoggingConfiguration, Nullable<String>, Nullable<Action<SentryNLogOptions>>)
+  nameWithType.vb: ConfigurationExtensions.AddSentry(LoggingConfiguration, Nullable(Of String), Nullable(Of Action(Of SentryNLogOptions)))
+- uid: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration,System.Nullable{System.String},System.String,System.Nullable{Action{SentryNLogOptions}})
+  name: AddSentry(LoggingConfiguration, Nullable<String>, String, Nullable<Action<SentryNLogOptions>>)
+  href: api/NLog.ConfigurationExtensions.html#NLog_ConfigurationExtensions_AddSentry_LoggingConfiguration_System_Nullable_System_String__System_String_System_Nullable_Action_SentryNLogOptions___
+  commentId: M:NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration,System.Nullable{System.String},System.String,System.Nullable{Action{SentryNLogOptions}})
+  name.vb: AddSentry(LoggingConfiguration, Nullable(Of String), String, Nullable(Of Action(Of SentryNLogOptions)))
+  fullName: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration, System.Nullable<System.String>, System.String, System.Nullable<Action<SentryNLogOptions>>)
+  fullName.vb: NLog.ConfigurationExtensions.AddSentry(LoggingConfiguration, System.Nullable(Of System.String), System.String, System.Nullable(Of Action(Of SentryNLogOptions)))
+  nameWithType: ConfigurationExtensions.AddSentry(LoggingConfiguration, Nullable<String>, String, Nullable<Action<SentryNLogOptions>>)
+  nameWithType.vb: ConfigurationExtensions.AddSentry(LoggingConfiguration, Nullable(Of String), String, Nullable(Of Action(Of SentryNLogOptions)))
+- uid: NLog.ConfigurationExtensions.AddSentry*
+  name: AddSentry
+  href: api/NLog.ConfigurationExtensions.html#NLog_ConfigurationExtensions_AddSentry_
+  commentId: Overload:NLog.ConfigurationExtensions.AddSentry
+  isSpec: "True"
+  fullName: NLog.ConfigurationExtensions.AddSentry
+  nameWithType: ConfigurationExtensions.AddSentry
+- uid: NLog.ConfigurationExtensions.AddTag(SentryNLogOptions,System.String,Layout)
+  name: AddTag(SentryNLogOptions, String, Layout)
+  href: api/NLog.ConfigurationExtensions.html#NLog_ConfigurationExtensions_AddTag_SentryNLogOptions_System_String_Layout_
+  commentId: M:NLog.ConfigurationExtensions.AddTag(SentryNLogOptions,System.String,Layout)
+  fullName: NLog.ConfigurationExtensions.AddTag(SentryNLogOptions, System.String, Layout)
+  nameWithType: ConfigurationExtensions.AddTag(SentryNLogOptions, String, Layout)
+- uid: NLog.ConfigurationExtensions.AddTag*
+  name: AddTag
+  href: api/NLog.ConfigurationExtensions.html#NLog_ConfigurationExtensions_AddTag_
+  commentId: Overload:NLog.ConfigurationExtensions.AddTag
+  isSpec: "True"
+  fullName: NLog.ConfigurationExtensions.AddTag
+  nameWithType: ConfigurationExtensions.AddTag
+- uid: Sentry
+  name: Sentry
+  href: api/Sentry.html
+  commentId: N:Sentry
+  fullName: Sentry
+  nameWithType: Sentry
+- uid: Sentry.AspNet
+  name: Sentry.AspNet
+  href: api/Sentry.AspNet.html
+  commentId: N:Sentry.AspNet
+  fullName: Sentry.AspNet
+  nameWithType: Sentry.AspNet
+- uid: Sentry.AspNet.HttpContextExtensions
+  name: HttpContextExtensions
+  href: api/Sentry.AspNet.HttpContextExtensions.html
+  commentId: T:Sentry.AspNet.HttpContextExtensions
+  fullName: Sentry.AspNet.HttpContextExtensions
+  nameWithType: HttpContextExtensions
+- uid: Sentry.AspNet.HttpContextExtensions.FinishSentryTransaction(HttpContext)
+  name: FinishSentryTransaction(HttpContext)
+  href: api/Sentry.AspNet.HttpContextExtensions.html#Sentry_AspNet_HttpContextExtensions_FinishSentryTransaction_HttpContext_
+  commentId: M:Sentry.AspNet.HttpContextExtensions.FinishSentryTransaction(HttpContext)
+  fullName: Sentry.AspNet.HttpContextExtensions.FinishSentryTransaction(HttpContext)
+  nameWithType: HttpContextExtensions.FinishSentryTransaction(HttpContext)
+- uid: Sentry.AspNet.HttpContextExtensions.FinishSentryTransaction*
+  name: FinishSentryTransaction
+  href: api/Sentry.AspNet.HttpContextExtensions.html#Sentry_AspNet_HttpContextExtensions_FinishSentryTransaction_
+  commentId: Overload:Sentry.AspNet.HttpContextExtensions.FinishSentryTransaction
+  isSpec: "True"
+  fullName: Sentry.AspNet.HttpContextExtensions.FinishSentryTransaction
+  nameWithType: HttpContextExtensions.FinishSentryTransaction
+- uid: Sentry.AspNet.HttpContextExtensions.StartSentryTransaction(HttpContext)
+  name: StartSentryTransaction(HttpContext)
+  href: api/Sentry.AspNet.HttpContextExtensions.html#Sentry_AspNet_HttpContextExtensions_StartSentryTransaction_HttpContext_
+  commentId: M:Sentry.AspNet.HttpContextExtensions.StartSentryTransaction(HttpContext)
+  fullName: Sentry.AspNet.HttpContextExtensions.StartSentryTransaction(HttpContext)
+  nameWithType: HttpContextExtensions.StartSentryTransaction(HttpContext)
+- uid: Sentry.AspNet.HttpContextExtensions.StartSentryTransaction*
+  name: StartSentryTransaction
+  href: api/Sentry.AspNet.HttpContextExtensions.html#Sentry_AspNet_HttpContextExtensions_StartSentryTransaction_
+  commentId: Overload:Sentry.AspNet.HttpContextExtensions.StartSentryTransaction
+  isSpec: "True"
+  fullName: Sentry.AspNet.HttpContextExtensions.StartSentryTransaction
+  nameWithType: HttpContextExtensions.StartSentryTransaction
+- uid: Sentry.AspNet.SentryAspNetOptionsExtensions
+  name: SentryAspNetOptionsExtensions
+  href: api/Sentry.AspNet.SentryAspNetOptionsExtensions.html
+  commentId: T:Sentry.AspNet.SentryAspNetOptionsExtensions
+  fullName: Sentry.AspNet.SentryAspNetOptionsExtensions
+  nameWithType: SentryAspNetOptionsExtensions
+- uid: Sentry.AspNet.SentryAspNetOptionsExtensions.AddAspNet(SentryOptions,RequestSize)
+  name: AddAspNet(SentryOptions, RequestSize)
+  href: api/Sentry.AspNet.SentryAspNetOptionsExtensions.html#Sentry_AspNet_SentryAspNetOptionsExtensions_AddAspNet_SentryOptions_RequestSize_
+  commentId: M:Sentry.AspNet.SentryAspNetOptionsExtensions.AddAspNet(SentryOptions,RequestSize)
+  fullName: Sentry.AspNet.SentryAspNetOptionsExtensions.AddAspNet(SentryOptions, RequestSize)
+  nameWithType: SentryAspNetOptionsExtensions.AddAspNet(SentryOptions, RequestSize)
+- uid: Sentry.AspNet.SentryAspNetOptionsExtensions.AddAspNet*
+  name: AddAspNet
+  href: api/Sentry.AspNet.SentryAspNetOptionsExtensions.html#Sentry_AspNet_SentryAspNetOptionsExtensions_AddAspNet_
+  commentId: Overload:Sentry.AspNet.SentryAspNetOptionsExtensions.AddAspNet
+  isSpec: "True"
+  fullName: Sentry.AspNet.SentryAspNetOptionsExtensions.AddAspNet
+  nameWithType: SentryAspNetOptionsExtensions.AddAspNet
+- uid: Sentry.AspNet.SentryHttpServerUtilityExtensions
+  name: SentryHttpServerUtilityExtensions
+  href: api/Sentry.AspNet.SentryHttpServerUtilityExtensions.html
+  commentId: T:Sentry.AspNet.SentryHttpServerUtilityExtensions
+  fullName: Sentry.AspNet.SentryHttpServerUtilityExtensions
+  nameWithType: SentryHttpServerUtilityExtensions
+- uid: Sentry.AspNet.SentryHttpServerUtilityExtensions.CaptureLastError(HttpServerUtility)
+  name: CaptureLastError(HttpServerUtility)
+  href: api/Sentry.AspNet.SentryHttpServerUtilityExtensions.html#Sentry_AspNet_SentryHttpServerUtilityExtensions_CaptureLastError_HttpServerUtility_
+  commentId: M:Sentry.AspNet.SentryHttpServerUtilityExtensions.CaptureLastError(HttpServerUtility)
+  fullName: Sentry.AspNet.SentryHttpServerUtilityExtensions.CaptureLastError(HttpServerUtility)
+  nameWithType: SentryHttpServerUtilityExtensions.CaptureLastError(HttpServerUtility)
+- uid: Sentry.AspNet.SentryHttpServerUtilityExtensions.CaptureLastError*
+  name: CaptureLastError
+  href: api/Sentry.AspNet.SentryHttpServerUtilityExtensions.html#Sentry_AspNet_SentryHttpServerUtilityExtensions_CaptureLastError_
+  commentId: Overload:Sentry.AspNet.SentryHttpServerUtilityExtensions.CaptureLastError
+  isSpec: "True"
+  fullName: Sentry.AspNet.SentryHttpServerUtilityExtensions.CaptureLastError
+  nameWithType: SentryHttpServerUtilityExtensions.CaptureLastError
+- uid: Sentry.AspNetCore
+  name: Sentry.AspNetCore
+  href: api/Sentry.AspNetCore.html
+  commentId: N:Sentry.AspNetCore
+  fullName: Sentry.AspNetCore
+  nameWithType: Sentry.AspNetCore
+- uid: Sentry.AspNetCore.Grpc
+  name: Sentry.AspNetCore.Grpc
+  href: api/Sentry.AspNetCore.Grpc.html
+  commentId: N:Sentry.AspNetCore.Grpc
+  fullName: Sentry.AspNetCore.Grpc
+  nameWithType: Sentry.AspNetCore.Grpc
+- uid: Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor
+  name: DefaultProtobufRequestPayloadExtractor
+  href: api/Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.html
+  commentId: T:Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor
+  fullName: Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor
+  nameWithType: DefaultProtobufRequestPayloadExtractor
+- uid: Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.ExtractPayload*
+  name: ExtractPayload
+  href: api/Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.html#Sentry_AspNetCore_Grpc_DefaultProtobufRequestPayloadExtractor_ExtractPayload_
+  commentId: Overload:Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.ExtractPayload
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.ExtractPayload
+  nameWithType: DefaultProtobufRequestPayloadExtractor.ExtractPayload
+- uid: Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.ExtractPayload``1(Sentry.AspNetCore.Grpc.IProtobufRequest{``0})
+  name: ExtractPayload<TRequest>(IProtobufRequest<TRequest>)
+  href: api/Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.html#Sentry_AspNetCore_Grpc_DefaultProtobufRequestPayloadExtractor_ExtractPayload__1_Sentry_AspNetCore_Grpc_IProtobufRequest___0__
+  commentId: M:Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.ExtractPayload``1(Sentry.AspNetCore.Grpc.IProtobufRequest{``0})
+  name.vb: ExtractPayload(Of TRequest)(IProtobufRequest(Of TRequest))
+  fullName: Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.ExtractPayload<TRequest>(Sentry.AspNetCore.Grpc.IProtobufRequest<TRequest>)
+  fullName.vb: Sentry.AspNetCore.Grpc.DefaultProtobufRequestPayloadExtractor.ExtractPayload(Of TRequest)(Sentry.AspNetCore.Grpc.IProtobufRequest(Of TRequest))
+  nameWithType: DefaultProtobufRequestPayloadExtractor.ExtractPayload<TRequest>(IProtobufRequest<TRequest>)
+  nameWithType.vb: DefaultProtobufRequestPayloadExtractor.ExtractPayload(Of TRequest)(IProtobufRequest(Of TRequest))
+- uid: Sentry.AspNetCore.Grpc.IProtobufRequest`1
+  name: IProtobufRequest<TRequest>
+  href: api/Sentry.AspNetCore.Grpc.IProtobufRequest-1.html
+  commentId: T:Sentry.AspNetCore.Grpc.IProtobufRequest`1
+  name.vb: IProtobufRequest(Of TRequest)
+  fullName: Sentry.AspNetCore.Grpc.IProtobufRequest<TRequest>
+  fullName.vb: Sentry.AspNetCore.Grpc.IProtobufRequest(Of TRequest)
+  nameWithType: IProtobufRequest<TRequest>
+  nameWithType.vb: IProtobufRequest(Of TRequest)
+- uid: Sentry.AspNetCore.Grpc.IProtobufRequest`1.ContentLength
+  name: ContentLength
+  href: api/Sentry.AspNetCore.Grpc.IProtobufRequest-1.html#Sentry_AspNetCore_Grpc_IProtobufRequest_1_ContentLength
+  commentId: P:Sentry.AspNetCore.Grpc.IProtobufRequest`1.ContentLength
+  fullName: Sentry.AspNetCore.Grpc.IProtobufRequest<TRequest>.ContentLength
+  fullName.vb: Sentry.AspNetCore.Grpc.IProtobufRequest(Of TRequest).ContentLength
+  nameWithType: IProtobufRequest<TRequest>.ContentLength
+  nameWithType.vb: IProtobufRequest(Of TRequest).ContentLength
+- uid: Sentry.AspNetCore.Grpc.IProtobufRequest`1.ContentLength*
+  name: ContentLength
+  href: api/Sentry.AspNetCore.Grpc.IProtobufRequest-1.html#Sentry_AspNetCore_Grpc_IProtobufRequest_1_ContentLength_
+  commentId: Overload:Sentry.AspNetCore.Grpc.IProtobufRequest`1.ContentLength
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.IProtobufRequest<TRequest>.ContentLength
+  fullName.vb: Sentry.AspNetCore.Grpc.IProtobufRequest(Of TRequest).ContentLength
+  nameWithType: IProtobufRequest<TRequest>.ContentLength
+  nameWithType.vb: IProtobufRequest(Of TRequest).ContentLength
+- uid: Sentry.AspNetCore.Grpc.IProtobufRequest`1.Request
+  name: Request
+  href: api/Sentry.AspNetCore.Grpc.IProtobufRequest-1.html#Sentry_AspNetCore_Grpc_IProtobufRequest_1_Request
+  commentId: P:Sentry.AspNetCore.Grpc.IProtobufRequest`1.Request
+  fullName: Sentry.AspNetCore.Grpc.IProtobufRequest<TRequest>.Request
+  fullName.vb: Sentry.AspNetCore.Grpc.IProtobufRequest(Of TRequest).Request
+  nameWithType: IProtobufRequest<TRequest>.Request
+  nameWithType.vb: IProtobufRequest(Of TRequest).Request
+- uid: Sentry.AspNetCore.Grpc.IProtobufRequest`1.Request*
+  name: Request
+  href: api/Sentry.AspNetCore.Grpc.IProtobufRequest-1.html#Sentry_AspNetCore_Grpc_IProtobufRequest_1_Request_
+  commentId: Overload:Sentry.AspNetCore.Grpc.IProtobufRequest`1.Request
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.IProtobufRequest<TRequest>.Request
+  fullName.vb: Sentry.AspNetCore.Grpc.IProtobufRequest(Of TRequest).Request
+  nameWithType: IProtobufRequest<TRequest>.Request
+  nameWithType.vb: IProtobufRequest(Of TRequest).Request
+- uid: Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor
+  name: IProtobufRequestPayloadExtractor
+  href: api/Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.html
+  commentId: T:Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor
+  fullName: Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor
+  nameWithType: IProtobufRequestPayloadExtractor
+- uid: Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.ExtractPayload*
+  name: ExtractPayload
+  href: api/Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.html#Sentry_AspNetCore_Grpc_IProtobufRequestPayloadExtractor_ExtractPayload_
+  commentId: Overload:Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.ExtractPayload
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.ExtractPayload
+  nameWithType: IProtobufRequestPayloadExtractor.ExtractPayload
+- uid: Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.ExtractPayload``1(Sentry.AspNetCore.Grpc.IProtobufRequest{``0})
+  name: ExtractPayload<TRequest>(IProtobufRequest<TRequest>)
+  href: api/Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.html#Sentry_AspNetCore_Grpc_IProtobufRequestPayloadExtractor_ExtractPayload__1_Sentry_AspNetCore_Grpc_IProtobufRequest___0__
+  commentId: M:Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.ExtractPayload``1(Sentry.AspNetCore.Grpc.IProtobufRequest{``0})
+  name.vb: ExtractPayload(Of TRequest)(IProtobufRequest(Of TRequest))
+  fullName: Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.ExtractPayload<TRequest>(Sentry.AspNetCore.Grpc.IProtobufRequest<TRequest>)
+  fullName.vb: Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor.ExtractPayload(Of TRequest)(Sentry.AspNetCore.Grpc.IProtobufRequest(Of TRequest))
+  nameWithType: IProtobufRequestPayloadExtractor.ExtractPayload<TRequest>(IProtobufRequest<TRequest>)
+  nameWithType.vb: IProtobufRequestPayloadExtractor.ExtractPayload(Of TRequest)(IProtobufRequest(Of TRequest))
+- uid: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher
+  name: ProtobufRequestExtractionDispatcher
+  href: api/Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.html
+  commentId: T:Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher
+  fullName: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher
+  nameWithType: ProtobufRequestExtractionDispatcher
+- uid: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.#ctor(IEnumerable{Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor},SentryOptions,Func{RequestSize})
+  name: ProtobufRequestExtractionDispatcher(IEnumerable<IProtobufRequestPayloadExtractor>, SentryOptions, Func<RequestSize>)
+  href: api/Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.html#Sentry_AspNetCore_Grpc_ProtobufRequestExtractionDispatcher__ctor_IEnumerable_Sentry_AspNetCore_Grpc_IProtobufRequestPayloadExtractor__SentryOptions_Func_RequestSize__
+  commentId: M:Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.#ctor(IEnumerable{Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor},SentryOptions,Func{RequestSize})
+  name.vb: ProtobufRequestExtractionDispatcher(IEnumerable(Of IProtobufRequestPayloadExtractor), SentryOptions, Func(Of RequestSize))
+  fullName: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ProtobufRequestExtractionDispatcher(IEnumerable<Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor>, SentryOptions, Func<RequestSize>)
+  fullName.vb: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ProtobufRequestExtractionDispatcher(IEnumerable(Of Sentry.AspNetCore.Grpc.IProtobufRequestPayloadExtractor), SentryOptions, Func(Of RequestSize))
+  nameWithType: ProtobufRequestExtractionDispatcher.ProtobufRequestExtractionDispatcher(IEnumerable<IProtobufRequestPayloadExtractor>, SentryOptions, Func<RequestSize>)
+  nameWithType.vb: ProtobufRequestExtractionDispatcher.ProtobufRequestExtractionDispatcher(IEnumerable(Of IProtobufRequestPayloadExtractor), SentryOptions, Func(Of RequestSize))
+- uid: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.#ctor*
+  name: ProtobufRequestExtractionDispatcher
+  href: api/Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.html#Sentry_AspNetCore_Grpc_ProtobufRequestExtractionDispatcher__ctor_
+  commentId: Overload:Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.#ctor
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ProtobufRequestExtractionDispatcher
+  nameWithType: ProtobufRequestExtractionDispatcher.ProtobufRequestExtractionDispatcher
+- uid: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ExtractPayload*
+  name: ExtractPayload
+  href: api/Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.html#Sentry_AspNetCore_Grpc_ProtobufRequestExtractionDispatcher_ExtractPayload_
+  commentId: Overload:Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ExtractPayload
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ExtractPayload
+  nameWithType: ProtobufRequestExtractionDispatcher.ExtractPayload
+- uid: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ExtractPayload``1(Sentry.AspNetCore.Grpc.IProtobufRequest{``0})
+  name: ExtractPayload<TRequest>(IProtobufRequest<TRequest>)
+  href: api/Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.html#Sentry_AspNetCore_Grpc_ProtobufRequestExtractionDispatcher_ExtractPayload__1_Sentry_AspNetCore_Grpc_IProtobufRequest___0__
+  commentId: M:Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ExtractPayload``1(Sentry.AspNetCore.Grpc.IProtobufRequest{``0})
+  name.vb: ExtractPayload(Of TRequest)(IProtobufRequest(Of TRequest))
+  fullName: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ExtractPayload<TRequest>(Sentry.AspNetCore.Grpc.IProtobufRequest<TRequest>)
+  fullName.vb: Sentry.AspNetCore.Grpc.ProtobufRequestExtractionDispatcher.ExtractPayload(Of TRequest)(Sentry.AspNetCore.Grpc.IProtobufRequest(Of TRequest))
+  nameWithType: ProtobufRequestExtractionDispatcher.ExtractPayload<TRequest>(IProtobufRequest<TRequest>)
+  nameWithType.vb: ProtobufRequestExtractionDispatcher.ExtractPayload(Of TRequest)(IProtobufRequest(Of TRequest))
+- uid: Sentry.AspNetCore.Grpc.ScopeExtensions
+  name: ScopeExtensions
+  href: api/Sentry.AspNetCore.Grpc.ScopeExtensions.html
+  commentId: T:Sentry.AspNetCore.Grpc.ScopeExtensions
+  fullName: Sentry.AspNetCore.Grpc.ScopeExtensions
+  nameWithType: ScopeExtensions
+- uid: Sentry.AspNetCore.Grpc.ScopeExtensions.Populate*
+  name: Populate
+  href: api/Sentry.AspNetCore.Grpc.ScopeExtensions.html#Sentry_AspNetCore_Grpc_ScopeExtensions_Populate_
+  commentId: Overload:Sentry.AspNetCore.Grpc.ScopeExtensions.Populate
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.ScopeExtensions.Populate
+  nameWithType: ScopeExtensions.Populate
+- uid: Sentry.AspNetCore.Grpc.ScopeExtensions.Populate``1(Scope,ServerCallContext,``0,Sentry.AspNetCore.SentryAspNetCoreOptions)
+  name: Populate<TRequest>(Scope, ServerCallContext, TRequest, SentryAspNetCoreOptions)
+  href: api/Sentry.AspNetCore.Grpc.ScopeExtensions.html#Sentry_AspNetCore_Grpc_ScopeExtensions_Populate__1_Scope_ServerCallContext___0_Sentry_AspNetCore_SentryAspNetCoreOptions_
+  commentId: M:Sentry.AspNetCore.Grpc.ScopeExtensions.Populate``1(Scope,ServerCallContext,``0,Sentry.AspNetCore.SentryAspNetCoreOptions)
+  name.vb: Populate(Of TRequest)(Scope, ServerCallContext, TRequest, SentryAspNetCoreOptions)
+  fullName: Sentry.AspNetCore.Grpc.ScopeExtensions.Populate<TRequest>(Scope, ServerCallContext, TRequest, Sentry.AspNetCore.SentryAspNetCoreOptions)
+  fullName.vb: Sentry.AspNetCore.Grpc.ScopeExtensions.Populate(Of TRequest)(Scope, ServerCallContext, TRequest, Sentry.AspNetCore.SentryAspNetCoreOptions)
+  nameWithType: ScopeExtensions.Populate<TRequest>(Scope, ServerCallContext, TRequest, SentryAspNetCoreOptions)
+  nameWithType.vb: ScopeExtensions.Populate(Of TRequest)(Scope, ServerCallContext, TRequest, SentryAspNetCoreOptions)
+- uid: Sentry.AspNetCore.Grpc.SentryBuilderExtensions
+  name: SentryBuilderExtensions
+  href: api/Sentry.AspNetCore.Grpc.SentryBuilderExtensions.html
+  commentId: T:Sentry.AspNetCore.Grpc.SentryBuilderExtensions
+  fullName: Sentry.AspNetCore.Grpc.SentryBuilderExtensions
+  nameWithType: SentryBuilderExtensions
+- uid: Sentry.AspNetCore.Grpc.SentryBuilderExtensions.AddGrpc(Sentry.AspNetCore.ISentryBuilder)
+  name: AddGrpc(ISentryBuilder)
+  href: api/Sentry.AspNetCore.Grpc.SentryBuilderExtensions.html#Sentry_AspNetCore_Grpc_SentryBuilderExtensions_AddGrpc_Sentry_AspNetCore_ISentryBuilder_
+  commentId: M:Sentry.AspNetCore.Grpc.SentryBuilderExtensions.AddGrpc(Sentry.AspNetCore.ISentryBuilder)
+  fullName: Sentry.AspNetCore.Grpc.SentryBuilderExtensions.AddGrpc(Sentry.AspNetCore.ISentryBuilder)
+  nameWithType: SentryBuilderExtensions.AddGrpc(ISentryBuilder)
+- uid: Sentry.AspNetCore.Grpc.SentryBuilderExtensions.AddGrpc*
+  name: AddGrpc
+  href: api/Sentry.AspNetCore.Grpc.SentryBuilderExtensions.html#Sentry_AspNetCore_Grpc_SentryBuilderExtensions_AddGrpc_
+  commentId: Overload:Sentry.AspNetCore.Grpc.SentryBuilderExtensions.AddGrpc
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.SentryBuilderExtensions.AddGrpc
+  nameWithType: SentryBuilderExtensions.AddGrpc
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor
+  name: SentryGrpcInterceptor
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html
+  commentId: T:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor
+  nameWithType: SentryGrpcInterceptor
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.#ctor(Func{IHub},IOptions{Sentry.AspNetCore.SentryAspNetCoreOptions})
+  name: SentryGrpcInterceptor(Func<IHub>, IOptions<SentryAspNetCoreOptions>)
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor__ctor_Func_IHub__IOptions_Sentry_AspNetCore_SentryAspNetCoreOptions__
+  commentId: M:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.#ctor(Func{IHub},IOptions{Sentry.AspNetCore.SentryAspNetCoreOptions})
+  name.vb: SentryGrpcInterceptor(Func(Of IHub), IOptions(Of SentryAspNetCoreOptions))
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.SentryGrpcInterceptor(Func<IHub>, IOptions<Sentry.AspNetCore.SentryAspNetCoreOptions>)
+  fullName.vb: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.SentryGrpcInterceptor(Func(Of IHub), IOptions(Of Sentry.AspNetCore.SentryAspNetCoreOptions))
+  nameWithType: SentryGrpcInterceptor.SentryGrpcInterceptor(Func<IHub>, IOptions<SentryAspNetCoreOptions>)
+  nameWithType.vb: SentryGrpcInterceptor.SentryGrpcInterceptor(Func(Of IHub), IOptions(Of SentryAspNetCoreOptions))
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.#ctor*
+  name: SentryGrpcInterceptor
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor__ctor_
+  commentId: Overload:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.#ctor
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.SentryGrpcInterceptor
+  nameWithType: SentryGrpcInterceptor.SentryGrpcInterceptor
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ClientStreamingServerHandler*
+  name: ClientStreamingServerHandler
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor_ClientStreamingServerHandler_
+  commentId: Overload:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ClientStreamingServerHandler
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ClientStreamingServerHandler
+  nameWithType: SentryGrpcInterceptor.ClientStreamingServerHandler
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ClientStreamingServerHandler``2(IAsyncStreamReader{``0},ServerCallContext,ClientStreamingServerMethod{``0,``1})
+  name: ClientStreamingServerHandler<TRequest, TResponse>(IAsyncStreamReader<TRequest>, ServerCallContext, ClientStreamingServerMethod<TRequest, TResponse>)
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor_ClientStreamingServerHandler__2_IAsyncStreamReader___0__ServerCallContext_ClientStreamingServerMethod___0___1__
+  commentId: M:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ClientStreamingServerHandler``2(IAsyncStreamReader{``0},ServerCallContext,ClientStreamingServerMethod{``0,``1})
+  name.vb: ClientStreamingServerHandler(Of TRequest, TResponse)(IAsyncStreamReader(Of TRequest), ServerCallContext, ClientStreamingServerMethod(Of TRequest, TResponse))
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ClientStreamingServerHandler<TRequest, TResponse>(IAsyncStreamReader<TRequest>, ServerCallContext, ClientStreamingServerMethod<TRequest, TResponse>)
+  fullName.vb: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ClientStreamingServerHandler(Of TRequest, TResponse)(IAsyncStreamReader(Of TRequest), ServerCallContext, ClientStreamingServerMethod(Of TRequest, TResponse))
+  nameWithType: SentryGrpcInterceptor.ClientStreamingServerHandler<TRequest, TResponse>(IAsyncStreamReader<TRequest>, ServerCallContext, ClientStreamingServerMethod<TRequest, TResponse>)
+  nameWithType.vb: SentryGrpcInterceptor.ClientStreamingServerHandler(Of TRequest, TResponse)(IAsyncStreamReader(Of TRequest), ServerCallContext, ClientStreamingServerMethod(Of TRequest, TResponse))
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.DuplexStreamingServerHandler*
+  name: DuplexStreamingServerHandler
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor_DuplexStreamingServerHandler_
+  commentId: Overload:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.DuplexStreamingServerHandler
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.DuplexStreamingServerHandler
+  nameWithType: SentryGrpcInterceptor.DuplexStreamingServerHandler
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.DuplexStreamingServerHandler``2(IAsyncStreamReader{``0},IServerStreamWriter{``1},ServerCallContext,DuplexStreamingServerMethod{``0,``1})
+  name: DuplexStreamingServerHandler<TRequest, TResponse>(IAsyncStreamReader<TRequest>, IServerStreamWriter<TResponse>, ServerCallContext, DuplexStreamingServerMethod<TRequest, TResponse>)
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor_DuplexStreamingServerHandler__2_IAsyncStreamReader___0__IServerStreamWriter___1__ServerCallContext_DuplexStreamingServerMethod___0___1__
+  commentId: M:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.DuplexStreamingServerHandler``2(IAsyncStreamReader{``0},IServerStreamWriter{``1},ServerCallContext,DuplexStreamingServerMethod{``0,``1})
+  name.vb: DuplexStreamingServerHandler(Of TRequest, TResponse)(IAsyncStreamReader(Of TRequest), IServerStreamWriter(Of TResponse), ServerCallContext, DuplexStreamingServerMethod(Of TRequest, TResponse))
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.DuplexStreamingServerHandler<TRequest, TResponse>(IAsyncStreamReader<TRequest>, IServerStreamWriter<TResponse>, ServerCallContext, DuplexStreamingServerMethod<TRequest, TResponse>)
+  fullName.vb: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.DuplexStreamingServerHandler(Of TRequest, TResponse)(IAsyncStreamReader(Of TRequest), IServerStreamWriter(Of TResponse), ServerCallContext, DuplexStreamingServerMethod(Of TRequest, TResponse))
+  nameWithType: SentryGrpcInterceptor.DuplexStreamingServerHandler<TRequest, TResponse>(IAsyncStreamReader<TRequest>, IServerStreamWriter<TResponse>, ServerCallContext, DuplexStreamingServerMethod<TRequest, TResponse>)
+  nameWithType.vb: SentryGrpcInterceptor.DuplexStreamingServerHandler(Of TRequest, TResponse)(IAsyncStreamReader(Of TRequest), IServerStreamWriter(Of TResponse), ServerCallContext, DuplexStreamingServerMethod(Of TRequest, TResponse))
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ServerStreamingServerHandler*
+  name: ServerStreamingServerHandler
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor_ServerStreamingServerHandler_
+  commentId: Overload:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ServerStreamingServerHandler
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ServerStreamingServerHandler
+  nameWithType: SentryGrpcInterceptor.ServerStreamingServerHandler
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ServerStreamingServerHandler``2(``0,IServerStreamWriter{``1},ServerCallContext,ServerStreamingServerMethod{``0,``1})
+  name: ServerStreamingServerHandler<TRequest, TResponse>(TRequest, IServerStreamWriter<TResponse>, ServerCallContext, ServerStreamingServerMethod<TRequest, TResponse>)
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor_ServerStreamingServerHandler__2___0_IServerStreamWriter___1__ServerCallContext_ServerStreamingServerMethod___0___1__
+  commentId: M:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ServerStreamingServerHandler``2(``0,IServerStreamWriter{``1},ServerCallContext,ServerStreamingServerMethod{``0,``1})
+  name.vb: ServerStreamingServerHandler(Of TRequest, TResponse)(TRequest, IServerStreamWriter(Of TResponse), ServerCallContext, ServerStreamingServerMethod(Of TRequest, TResponse))
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ServerStreamingServerHandler<TRequest, TResponse>(TRequest, IServerStreamWriter<TResponse>, ServerCallContext, ServerStreamingServerMethod<TRequest, TResponse>)
+  fullName.vb: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.ServerStreamingServerHandler(Of TRequest, TResponse)(TRequest, IServerStreamWriter(Of TResponse), ServerCallContext, ServerStreamingServerMethod(Of TRequest, TResponse))
+  nameWithType: SentryGrpcInterceptor.ServerStreamingServerHandler<TRequest, TResponse>(TRequest, IServerStreamWriter<TResponse>, ServerCallContext, ServerStreamingServerMethod<TRequest, TResponse>)
+  nameWithType.vb: SentryGrpcInterceptor.ServerStreamingServerHandler(Of TRequest, TResponse)(TRequest, IServerStreamWriter(Of TResponse), ServerCallContext, ServerStreamingServerMethod(Of TRequest, TResponse))
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.UnaryServerHandler*
+  name: UnaryServerHandler
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor_UnaryServerHandler_
+  commentId: Overload:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.UnaryServerHandler
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.UnaryServerHandler
+  nameWithType: SentryGrpcInterceptor.UnaryServerHandler
+- uid: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.UnaryServerHandler``2(``0,ServerCallContext,UnaryServerMethod{``0,``1})
+  name: UnaryServerHandler<TRequest, TResponse>(TRequest, ServerCallContext, UnaryServerMethod<TRequest, TResponse>)
+  href: api/Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.html#Sentry_AspNetCore_Grpc_SentryGrpcInterceptor_UnaryServerHandler__2___0_ServerCallContext_UnaryServerMethod___0___1__
+  commentId: M:Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.UnaryServerHandler``2(``0,ServerCallContext,UnaryServerMethod{``0,``1})
+  name.vb: UnaryServerHandler(Of TRequest, TResponse)(TRequest, ServerCallContext, UnaryServerMethod(Of TRequest, TResponse))
+  fullName: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.UnaryServerHandler<TRequest, TResponse>(TRequest, ServerCallContext, UnaryServerMethod<TRequest, TResponse>)
+  fullName.vb: Sentry.AspNetCore.Grpc.SentryGrpcInterceptor.UnaryServerHandler(Of TRequest, TResponse)(TRequest, ServerCallContext, UnaryServerMethod(Of TRequest, TResponse))
+  nameWithType: SentryGrpcInterceptor.UnaryServerHandler<TRequest, TResponse>(TRequest, ServerCallContext, UnaryServerMethod<TRequest, TResponse>)
+  nameWithType.vb: SentryGrpcInterceptor.UnaryServerHandler(Of TRequest, TResponse)(TRequest, ServerCallContext, UnaryServerMethod(Of TRequest, TResponse))
+- uid: Sentry.AspNetCore.ISentryBuilder
+  name: ISentryBuilder
+  href: api/Sentry.AspNetCore.ISentryBuilder.html
+  commentId: T:Sentry.AspNetCore.ISentryBuilder
+  fullName: Sentry.AspNetCore.ISentryBuilder
+  nameWithType: ISentryBuilder
+- uid: Sentry.AspNetCore.ISentryBuilder.Services
+  name: Services
+  href: api/Sentry.AspNetCore.ISentryBuilder.html#Sentry_AspNetCore_ISentryBuilder_Services
+  commentId: P:Sentry.AspNetCore.ISentryBuilder.Services
+  fullName: Sentry.AspNetCore.ISentryBuilder.Services
+  nameWithType: ISentryBuilder.Services
+- uid: Sentry.AspNetCore.ISentryBuilder.Services*
+  name: Services
+  href: api/Sentry.AspNetCore.ISentryBuilder.html#Sentry_AspNetCore_ISentryBuilder_Services_
+  commentId: Overload:Sentry.AspNetCore.ISentryBuilder.Services
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.ISentryBuilder.Services
+  nameWithType: ISentryBuilder.Services
+- uid: Sentry.AspNetCore.IUserFactory
+  name: IUserFactory
+  href: api/Sentry.AspNetCore.IUserFactory.html
+  commentId: T:Sentry.AspNetCore.IUserFactory
+  fullName: Sentry.AspNetCore.IUserFactory
+  nameWithType: IUserFactory
+- uid: Sentry.AspNetCore.IUserFactory.Create(HttpContext)
+  name: Create(HttpContext)
+  href: api/Sentry.AspNetCore.IUserFactory.html#Sentry_AspNetCore_IUserFactory_Create_HttpContext_
+  commentId: M:Sentry.AspNetCore.IUserFactory.Create(HttpContext)
+  fullName: Sentry.AspNetCore.IUserFactory.Create(HttpContext)
+  nameWithType: IUserFactory.Create(HttpContext)
+- uid: Sentry.AspNetCore.IUserFactory.Create*
+  name: Create
+  href: api/Sentry.AspNetCore.IUserFactory.html#Sentry_AspNetCore_IUserFactory_Create_
+  commentId: Overload:Sentry.AspNetCore.IUserFactory.Create
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.IUserFactory.Create
+  nameWithType: IUserFactory.Create
+- uid: Sentry.AspNetCore.SamplingExtensions
+  name: SamplingExtensions
+  href: api/Sentry.AspNetCore.SamplingExtensions.html
+  commentId: T:Sentry.AspNetCore.SamplingExtensions
+  fullName: Sentry.AspNetCore.SamplingExtensions
+  nameWithType: SamplingExtensions
+- uid: Sentry.AspNetCore.SamplingExtensions.TryGetHttpContext(TransactionSamplingContext)
+  name: TryGetHttpContext(TransactionSamplingContext)
+  href: api/Sentry.AspNetCore.SamplingExtensions.html#Sentry_AspNetCore_SamplingExtensions_TryGetHttpContext_TransactionSamplingContext_
+  commentId: M:Sentry.AspNetCore.SamplingExtensions.TryGetHttpContext(TransactionSamplingContext)
+  fullName: Sentry.AspNetCore.SamplingExtensions.TryGetHttpContext(TransactionSamplingContext)
+  nameWithType: SamplingExtensions.TryGetHttpContext(TransactionSamplingContext)
+- uid: Sentry.AspNetCore.SamplingExtensions.TryGetHttpContext*
+  name: TryGetHttpContext
+  href: api/Sentry.AspNetCore.SamplingExtensions.html#Sentry_AspNetCore_SamplingExtensions_TryGetHttpContext_
+  commentId: Overload:Sentry.AspNetCore.SamplingExtensions.TryGetHttpContext
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SamplingExtensions.TryGetHttpContext
+  nameWithType: SamplingExtensions.TryGetHttpContext
+- uid: Sentry.AspNetCore.SamplingExtensions.TryGetHttpMethod(TransactionSamplingContext)
+  name: TryGetHttpMethod(TransactionSamplingContext)
+  href: api/Sentry.AspNetCore.SamplingExtensions.html#Sentry_AspNetCore_SamplingExtensions_TryGetHttpMethod_TransactionSamplingContext_
+  commentId: M:Sentry.AspNetCore.SamplingExtensions.TryGetHttpMethod(TransactionSamplingContext)
+  fullName: Sentry.AspNetCore.SamplingExtensions.TryGetHttpMethod(TransactionSamplingContext)
+  nameWithType: SamplingExtensions.TryGetHttpMethod(TransactionSamplingContext)
+- uid: Sentry.AspNetCore.SamplingExtensions.TryGetHttpMethod*
+  name: TryGetHttpMethod
+  href: api/Sentry.AspNetCore.SamplingExtensions.html#Sentry_AspNetCore_SamplingExtensions_TryGetHttpMethod_
+  commentId: Overload:Sentry.AspNetCore.SamplingExtensions.TryGetHttpMethod
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SamplingExtensions.TryGetHttpMethod
+  nameWithType: SamplingExtensions.TryGetHttpMethod
+- uid: Sentry.AspNetCore.SamplingExtensions.TryGetHttpPath(TransactionSamplingContext)
+  name: TryGetHttpPath(TransactionSamplingContext)
+  href: api/Sentry.AspNetCore.SamplingExtensions.html#Sentry_AspNetCore_SamplingExtensions_TryGetHttpPath_TransactionSamplingContext_
+  commentId: M:Sentry.AspNetCore.SamplingExtensions.TryGetHttpPath(TransactionSamplingContext)
+  fullName: Sentry.AspNetCore.SamplingExtensions.TryGetHttpPath(TransactionSamplingContext)
+  nameWithType: SamplingExtensions.TryGetHttpPath(TransactionSamplingContext)
+- uid: Sentry.AspNetCore.SamplingExtensions.TryGetHttpPath*
+  name: TryGetHttpPath
+  href: api/Sentry.AspNetCore.SamplingExtensions.html#Sentry_AspNetCore_SamplingExtensions_TryGetHttpPath_
+  commentId: Overload:Sentry.AspNetCore.SamplingExtensions.TryGetHttpPath
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SamplingExtensions.TryGetHttpPath
+  nameWithType: SamplingExtensions.TryGetHttpPath
+- uid: Sentry.AspNetCore.SamplingExtensions.TryGetHttpRoute(TransactionSamplingContext)
+  name: TryGetHttpRoute(TransactionSamplingContext)
+  href: api/Sentry.AspNetCore.SamplingExtensions.html#Sentry_AspNetCore_SamplingExtensions_TryGetHttpRoute_TransactionSamplingContext_
+  commentId: M:Sentry.AspNetCore.SamplingExtensions.TryGetHttpRoute(TransactionSamplingContext)
+  fullName: Sentry.AspNetCore.SamplingExtensions.TryGetHttpRoute(TransactionSamplingContext)
+  nameWithType: SamplingExtensions.TryGetHttpRoute(TransactionSamplingContext)
+- uid: Sentry.AspNetCore.SamplingExtensions.TryGetHttpRoute*
+  name: TryGetHttpRoute
+  href: api/Sentry.AspNetCore.SamplingExtensions.html#Sentry_AspNetCore_SamplingExtensions_TryGetHttpRoute_
+  commentId: Overload:Sentry.AspNetCore.SamplingExtensions.TryGetHttpRoute
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SamplingExtensions.TryGetHttpRoute
+  nameWithType: SamplingExtensions.TryGetHttpRoute
+- uid: Sentry.AspNetCore.ScopeExtensions
+  name: ScopeExtensions
+  href: api/Sentry.AspNetCore.ScopeExtensions.html
+  commentId: T:Sentry.AspNetCore.ScopeExtensions
+  fullName: Sentry.AspNetCore.ScopeExtensions
+  nameWithType: ScopeExtensions
+- uid: Sentry.AspNetCore.ScopeExtensions.Populate(Scope,Activity)
+  name: Populate(Scope, Activity)
+  href: api/Sentry.AspNetCore.ScopeExtensions.html#Sentry_AspNetCore_ScopeExtensions_Populate_Scope_Activity_
+  commentId: M:Sentry.AspNetCore.ScopeExtensions.Populate(Scope,Activity)
+  fullName: Sentry.AspNetCore.ScopeExtensions.Populate(Scope, Activity)
+  nameWithType: ScopeExtensions.Populate(Scope, Activity)
+- uid: Sentry.AspNetCore.ScopeExtensions.Populate(Scope,HttpContext,Sentry.AspNetCore.SentryAspNetCoreOptions)
+  name: Populate(Scope, HttpContext, SentryAspNetCoreOptions)
+  href: api/Sentry.AspNetCore.ScopeExtensions.html#Sentry_AspNetCore_ScopeExtensions_Populate_Scope_HttpContext_Sentry_AspNetCore_SentryAspNetCoreOptions_
+  commentId: M:Sentry.AspNetCore.ScopeExtensions.Populate(Scope,HttpContext,Sentry.AspNetCore.SentryAspNetCoreOptions)
+  fullName: Sentry.AspNetCore.ScopeExtensions.Populate(Scope, HttpContext, Sentry.AspNetCore.SentryAspNetCoreOptions)
+  nameWithType: ScopeExtensions.Populate(Scope, HttpContext, SentryAspNetCoreOptions)
+- uid: Sentry.AspNetCore.ScopeExtensions.Populate*
+  name: Populate
+  href: api/Sentry.AspNetCore.ScopeExtensions.html#Sentry_AspNetCore_ScopeExtensions_Populate_
+  commentId: Overload:Sentry.AspNetCore.ScopeExtensions.Populate
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.ScopeExtensions.Populate
+  nameWithType: ScopeExtensions.Populate
+- uid: Sentry.AspNetCore.SentryAspNetCoreLoggerProvider
+  name: SentryAspNetCoreLoggerProvider
+  href: api/Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.html
+  commentId: T:Sentry.AspNetCore.SentryAspNetCoreLoggerProvider
+  fullName: Sentry.AspNetCore.SentryAspNetCoreLoggerProvider
+  nameWithType: SentryAspNetCoreLoggerProvider
+- uid: Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.#ctor(IOptions{Sentry.AspNetCore.SentryAspNetCoreOptions},IHub)
+  name: SentryAspNetCoreLoggerProvider(IOptions<SentryAspNetCoreOptions>, IHub)
+  href: api/Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.html#Sentry_AspNetCore_SentryAspNetCoreLoggerProvider__ctor_IOptions_Sentry_AspNetCore_SentryAspNetCoreOptions__IHub_
+  commentId: M:Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.#ctor(IOptions{Sentry.AspNetCore.SentryAspNetCoreOptions},IHub)
+  name.vb: SentryAspNetCoreLoggerProvider(IOptions(Of SentryAspNetCoreOptions), IHub)
+  fullName: Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.SentryAspNetCoreLoggerProvider(IOptions<Sentry.AspNetCore.SentryAspNetCoreOptions>, IHub)
+  fullName.vb: Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.SentryAspNetCoreLoggerProvider(IOptions(Of Sentry.AspNetCore.SentryAspNetCoreOptions), IHub)
+  nameWithType: SentryAspNetCoreLoggerProvider.SentryAspNetCoreLoggerProvider(IOptions<SentryAspNetCoreOptions>, IHub)
+  nameWithType.vb: SentryAspNetCoreLoggerProvider.SentryAspNetCoreLoggerProvider(IOptions(Of SentryAspNetCoreOptions), IHub)
+- uid: Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.#ctor*
+  name: SentryAspNetCoreLoggerProvider
+  href: api/Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.html#Sentry_AspNetCore_SentryAspNetCoreLoggerProvider__ctor_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.#ctor
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreLoggerProvider.SentryAspNetCoreLoggerProvider
+  nameWithType: SentryAspNetCoreLoggerProvider.SentryAspNetCoreLoggerProvider
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions
+  name: SentryAspNetCoreOptions
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html
+  commentId: T:Sentry.AspNetCore.SentryAspNetCoreOptions
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions
+  nameWithType: SentryAspNetCoreOptions
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.#ctor
+  name: SentryAspNetCoreOptions()
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions__ctor
+  commentId: M:Sentry.AspNetCore.SentryAspNetCoreOptions.#ctor
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.SentryAspNetCoreOptions()
+  nameWithType: SentryAspNetCoreOptions.SentryAspNetCoreOptions()
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.#ctor*
+  name: SentryAspNetCoreOptions
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions__ctor_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptions.#ctor
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.SentryAspNetCoreOptions
+  nameWithType: SentryAspNetCoreOptions.SentryAspNetCoreOptions
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.AdjustStandardEnvironmentNameCasing
+  name: AdjustStandardEnvironmentNameCasing
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_AdjustStandardEnvironmentNameCasing
+  commentId: P:Sentry.AspNetCore.SentryAspNetCoreOptions.AdjustStandardEnvironmentNameCasing
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.AdjustStandardEnvironmentNameCasing
+  nameWithType: SentryAspNetCoreOptions.AdjustStandardEnvironmentNameCasing
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.AdjustStandardEnvironmentNameCasing*
+  name: AdjustStandardEnvironmentNameCasing
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_AdjustStandardEnvironmentNameCasing_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptions.AdjustStandardEnvironmentNameCasing
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.AdjustStandardEnvironmentNameCasing
+  nameWithType: SentryAspNetCoreOptions.AdjustStandardEnvironmentNameCasing
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.FlushOnCompletedRequest
+  name: FlushOnCompletedRequest
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_FlushOnCompletedRequest
+  commentId: P:Sentry.AspNetCore.SentryAspNetCoreOptions.FlushOnCompletedRequest
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.FlushOnCompletedRequest
+  nameWithType: SentryAspNetCoreOptions.FlushOnCompletedRequest
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.FlushOnCompletedRequest*
+  name: FlushOnCompletedRequest
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_FlushOnCompletedRequest_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptions.FlushOnCompletedRequest
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.FlushOnCompletedRequest
+  nameWithType: SentryAspNetCoreOptions.FlushOnCompletedRequest
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.FlushTimeout
+  name: FlushTimeout
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_FlushTimeout
+  commentId: P:Sentry.AspNetCore.SentryAspNetCoreOptions.FlushTimeout
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.FlushTimeout
+  nameWithType: SentryAspNetCoreOptions.FlushTimeout
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.FlushTimeout*
+  name: FlushTimeout
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_FlushTimeout_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptions.FlushTimeout
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.FlushTimeout
+  nameWithType: SentryAspNetCoreOptions.FlushTimeout
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.IncludeActivityData
+  name: IncludeActivityData
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_IncludeActivityData
+  commentId: P:Sentry.AspNetCore.SentryAspNetCoreOptions.IncludeActivityData
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.IncludeActivityData
+  nameWithType: SentryAspNetCoreOptions.IncludeActivityData
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.IncludeActivityData*
+  name: IncludeActivityData
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_IncludeActivityData_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptions.IncludeActivityData
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.IncludeActivityData
+  nameWithType: SentryAspNetCoreOptions.IncludeActivityData
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.MaxRequestBodySize
+  name: MaxRequestBodySize
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_MaxRequestBodySize
+  commentId: P:Sentry.AspNetCore.SentryAspNetCoreOptions.MaxRequestBodySize
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.MaxRequestBodySize
+  nameWithType: SentryAspNetCoreOptions.MaxRequestBodySize
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.MaxRequestBodySize*
+  name: MaxRequestBodySize
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_MaxRequestBodySize_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptions.MaxRequestBodySize
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.MaxRequestBodySize
+  nameWithType: SentryAspNetCoreOptions.MaxRequestBodySize
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.TransactionNameProvider
+  name: TransactionNameProvider
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_TransactionNameProvider
+  commentId: P:Sentry.AspNetCore.SentryAspNetCoreOptions.TransactionNameProvider
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.TransactionNameProvider
+  nameWithType: SentryAspNetCoreOptions.TransactionNameProvider
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptions.TransactionNameProvider*
+  name: TransactionNameProvider
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptions.html#Sentry_AspNetCore_SentryAspNetCoreOptions_TransactionNameProvider_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptions.TransactionNameProvider
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptions.TransactionNameProvider
+  nameWithType: SentryAspNetCoreOptions.TransactionNameProvider
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup
+  name: SentryAspNetCoreOptionsSetup
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.html
+  commentId: T:Sentry.AspNetCore.SentryAspNetCoreOptionsSetup
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup
+  nameWithType: SentryAspNetCoreOptionsSetup
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.#ctor(ILoggerProviderConfiguration{Sentry.AspNetCore.SentryAspNetCoreLoggerProvider})
+  name: SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration<SentryAspNetCoreLoggerProvider>)
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.html#Sentry_AspNetCore_SentryAspNetCoreOptionsSetup__ctor_ILoggerProviderConfiguration_Sentry_AspNetCore_SentryAspNetCoreLoggerProvider__
+  commentId: M:Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.#ctor(ILoggerProviderConfiguration{Sentry.AspNetCore.SentryAspNetCoreLoggerProvider})
+  name.vb: SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration(Of SentryAspNetCoreLoggerProvider))
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration<Sentry.AspNetCore.SentryAspNetCoreLoggerProvider>)
+  fullName.vb: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration(Of Sentry.AspNetCore.SentryAspNetCoreLoggerProvider))
+  nameWithType: SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration<SentryAspNetCoreLoggerProvider>)
+  nameWithType.vb: SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration(Of SentryAspNetCoreLoggerProvider))
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.#ctor(ILoggerProviderConfiguration{Sentry.AspNetCore.SentryAspNetCoreLoggerProvider},Microsoft.AspNetCore.Hosting.IHostingEnvironment)
+  name: SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration<SentryAspNetCoreLoggerProvider>, IHostingEnvironment)
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.html#Sentry_AspNetCore_SentryAspNetCoreOptionsSetup__ctor_ILoggerProviderConfiguration_Sentry_AspNetCore_SentryAspNetCoreLoggerProvider__Microsoft_AspNetCore_Hosting_IHostingEnvironment_
+  commentId: M:Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.#ctor(ILoggerProviderConfiguration{Sentry.AspNetCore.SentryAspNetCoreLoggerProvider},Microsoft.AspNetCore.Hosting.IHostingEnvironment)
+  name.vb: SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration(Of SentryAspNetCoreLoggerProvider), IHostingEnvironment)
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration<Sentry.AspNetCore.SentryAspNetCoreLoggerProvider>, Microsoft.AspNetCore.Hosting.IHostingEnvironment)
+  fullName.vb: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration(Of Sentry.AspNetCore.SentryAspNetCoreLoggerProvider), Microsoft.AspNetCore.Hosting.IHostingEnvironment)
+  nameWithType: SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration<SentryAspNetCoreLoggerProvider>, IHostingEnvironment)
+  nameWithType.vb: SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup(ILoggerProviderConfiguration(Of SentryAspNetCoreLoggerProvider), IHostingEnvironment)
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.#ctor*
+  name: SentryAspNetCoreOptionsSetup
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.html#Sentry_AspNetCore_SentryAspNetCoreOptionsSetup__ctor_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.#ctor
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup
+  nameWithType: SentryAspNetCoreOptionsSetup.SentryAspNetCoreOptionsSetup
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.Configure(Sentry.AspNetCore.SentryAspNetCoreOptions)
+  name: Configure(SentryAspNetCoreOptions)
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.html#Sentry_AspNetCore_SentryAspNetCoreOptionsSetup_Configure_Sentry_AspNetCore_SentryAspNetCoreOptions_
+  commentId: M:Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.Configure(Sentry.AspNetCore.SentryAspNetCoreOptions)
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.Configure(Sentry.AspNetCore.SentryAspNetCoreOptions)
+  nameWithType: SentryAspNetCoreOptionsSetup.Configure(SentryAspNetCoreOptions)
+- uid: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.Configure*
+  name: Configure
+  href: api/Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.html#Sentry_AspNetCore_SentryAspNetCoreOptionsSetup_Configure_
+  commentId: Overload:Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.Configure
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryAspNetCoreOptionsSetup.Configure
+  nameWithType: SentryAspNetCoreOptionsSetup.Configure
+- uid: Sentry.AspNetCore.SentryBuilderExtensions
+  name: SentryBuilderExtensions
+  href: api/Sentry.AspNetCore.SentryBuilderExtensions.html
+  commentId: T:Sentry.AspNetCore.SentryBuilderExtensions
+  fullName: Sentry.AspNetCore.SentryBuilderExtensions
+  nameWithType: SentryBuilderExtensions
+- uid: Sentry.AspNetCore.SentryBuilderExtensions.AddSentryOptions(Sentry.AspNetCore.ISentryBuilder,System.Nullable{Action{Sentry.AspNetCore.SentryAspNetCoreOptions}})
+  name: AddSentryOptions(ISentryBuilder, Nullable<Action<SentryAspNetCoreOptions>>)
+  href: api/Sentry.AspNetCore.SentryBuilderExtensions.html#Sentry_AspNetCore_SentryBuilderExtensions_AddSentryOptions_Sentry_AspNetCore_ISentryBuilder_System_Nullable_Action_Sentry_AspNetCore_SentryAspNetCoreOptions___
+  commentId: M:Sentry.AspNetCore.SentryBuilderExtensions.AddSentryOptions(Sentry.AspNetCore.ISentryBuilder,System.Nullable{Action{Sentry.AspNetCore.SentryAspNetCoreOptions}})
+  name.vb: AddSentryOptions(ISentryBuilder, Nullable(Of Action(Of SentryAspNetCoreOptions)))
+  fullName: Sentry.AspNetCore.SentryBuilderExtensions.AddSentryOptions(Sentry.AspNetCore.ISentryBuilder, System.Nullable<Action<Sentry.AspNetCore.SentryAspNetCoreOptions>>)
+  fullName.vb: Sentry.AspNetCore.SentryBuilderExtensions.AddSentryOptions(Sentry.AspNetCore.ISentryBuilder, System.Nullable(Of Action(Of Sentry.AspNetCore.SentryAspNetCoreOptions)))
+  nameWithType: SentryBuilderExtensions.AddSentryOptions(ISentryBuilder, Nullable<Action<SentryAspNetCoreOptions>>)
+  nameWithType.vb: SentryBuilderExtensions.AddSentryOptions(ISentryBuilder, Nullable(Of Action(Of SentryAspNetCoreOptions)))
+- uid: Sentry.AspNetCore.SentryBuilderExtensions.AddSentryOptions*
+  name: AddSentryOptions
+  href: api/Sentry.AspNetCore.SentryBuilderExtensions.html#Sentry_AspNetCore_SentryBuilderExtensions_AddSentryOptions_
+  commentId: Overload:Sentry.AspNetCore.SentryBuilderExtensions.AddSentryOptions
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryBuilderExtensions.AddSentryOptions
+  nameWithType: SentryBuilderExtensions.AddSentryOptions
+- uid: Sentry.AspNetCore.SentryStartupFilter
+  name: SentryStartupFilter
+  href: api/Sentry.AspNetCore.SentryStartupFilter.html
+  commentId: T:Sentry.AspNetCore.SentryStartupFilter
+  fullName: Sentry.AspNetCore.SentryStartupFilter
+  nameWithType: SentryStartupFilter
+- uid: Sentry.AspNetCore.SentryStartupFilter.Configure(Action{IApplicationBuilder})
+  name: Configure(Action<IApplicationBuilder>)
+  href: api/Sentry.AspNetCore.SentryStartupFilter.html#Sentry_AspNetCore_SentryStartupFilter_Configure_Action_IApplicationBuilder__
+  commentId: M:Sentry.AspNetCore.SentryStartupFilter.Configure(Action{IApplicationBuilder})
+  name.vb: Configure(Action(Of IApplicationBuilder))
+  fullName: Sentry.AspNetCore.SentryStartupFilter.Configure(Action<IApplicationBuilder>)
+  fullName.vb: Sentry.AspNetCore.SentryStartupFilter.Configure(Action(Of IApplicationBuilder))
+  nameWithType: SentryStartupFilter.Configure(Action<IApplicationBuilder>)
+  nameWithType.vb: SentryStartupFilter.Configure(Action(Of IApplicationBuilder))
+- uid: Sentry.AspNetCore.SentryStartupFilter.Configure*
+  name: Configure
+  href: api/Sentry.AspNetCore.SentryStartupFilter.html#Sentry_AspNetCore_SentryStartupFilter_Configure_
+  commentId: Overload:Sentry.AspNetCore.SentryStartupFilter.Configure
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryStartupFilter.Configure
+  nameWithType: SentryStartupFilter.Configure
+- uid: Sentry.AspNetCore.SentryTunnelMiddleware
+  name: SentryTunnelMiddleware
+  href: api/Sentry.AspNetCore.SentryTunnelMiddleware.html
+  commentId: T:Sentry.AspNetCore.SentryTunnelMiddleware
+  fullName: Sentry.AspNetCore.SentryTunnelMiddleware
+  nameWithType: SentryTunnelMiddleware
+- uid: Sentry.AspNetCore.SentryTunnelMiddleware.#ctor(System.String[])
+  name: SentryTunnelMiddleware(String[])
+  href: api/Sentry.AspNetCore.SentryTunnelMiddleware.html#Sentry_AspNetCore_SentryTunnelMiddleware__ctor_System_String___
+  commentId: M:Sentry.AspNetCore.SentryTunnelMiddleware.#ctor(System.String[])
+  name.vb: SentryTunnelMiddleware(String())
+  fullName: Sentry.AspNetCore.SentryTunnelMiddleware.SentryTunnelMiddleware(System.String[])
+  fullName.vb: Sentry.AspNetCore.SentryTunnelMiddleware.SentryTunnelMiddleware(System.String())
+  nameWithType: SentryTunnelMiddleware.SentryTunnelMiddleware(String[])
+  nameWithType.vb: SentryTunnelMiddleware.SentryTunnelMiddleware(String())
+- uid: Sentry.AspNetCore.SentryTunnelMiddleware.#ctor*
+  name: SentryTunnelMiddleware
+  href: api/Sentry.AspNetCore.SentryTunnelMiddleware.html#Sentry_AspNetCore_SentryTunnelMiddleware__ctor_
+  commentId: Overload:Sentry.AspNetCore.SentryTunnelMiddleware.#ctor
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryTunnelMiddleware.SentryTunnelMiddleware
+  nameWithType: SentryTunnelMiddleware.SentryTunnelMiddleware
+- uid: Sentry.AspNetCore.SentryTunnelMiddleware.InvokeAsync(HttpContext,RequestDelegate)
+  name: InvokeAsync(HttpContext, RequestDelegate)
+  href: api/Sentry.AspNetCore.SentryTunnelMiddleware.html#Sentry_AspNetCore_SentryTunnelMiddleware_InvokeAsync_HttpContext_RequestDelegate_
+  commentId: M:Sentry.AspNetCore.SentryTunnelMiddleware.InvokeAsync(HttpContext,RequestDelegate)
+  fullName: Sentry.AspNetCore.SentryTunnelMiddleware.InvokeAsync(HttpContext, RequestDelegate)
+  nameWithType: SentryTunnelMiddleware.InvokeAsync(HttpContext, RequestDelegate)
+- uid: Sentry.AspNetCore.SentryTunnelMiddleware.InvokeAsync*
+  name: InvokeAsync
+  href: api/Sentry.AspNetCore.SentryTunnelMiddleware.html#Sentry_AspNetCore_SentryTunnelMiddleware_InvokeAsync_
+  commentId: Overload:Sentry.AspNetCore.SentryTunnelMiddleware.InvokeAsync
+  isSpec: "True"
+  fullName: Sentry.AspNetCore.SentryTunnelMiddleware.InvokeAsync
+  nameWithType: SentryTunnelMiddleware.InvokeAsync
+- uid: Sentry.AspNetCore.TransactionNameProvider
+  name: TransactionNameProvider
+  href: api/Sentry.AspNetCore.TransactionNameProvider.html
+  commentId: T:Sentry.AspNetCore.TransactionNameProvider
+  fullName: Sentry.AspNetCore.TransactionNameProvider
+  nameWithType: TransactionNameProvider
+- uid: Sentry.EntityFramework
+  name: Sentry.EntityFramework
+  href: api/Sentry.EntityFramework.html
+  commentId: N:Sentry.EntityFramework
+  fullName: Sentry.EntityFramework
+  nameWithType: Sentry.EntityFramework
+- uid: Sentry.EntityFramework.ErrorProcessors
+  name: Sentry.EntityFramework.ErrorProcessors
+  href: api/Sentry.EntityFramework.ErrorProcessors.html
+  commentId: N:Sentry.EntityFramework.ErrorProcessors
+  fullName: Sentry.EntityFramework.ErrorProcessors
+  nameWithType: Sentry.EntityFramework.ErrorProcessors
+- uid: Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor
+  name: DbConcurrencyExceptionProcessor
+  href: api/Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.html
+  commentId: T:Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor
+  fullName: Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor
+  nameWithType: DbConcurrencyExceptionProcessor
+- uid: Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.ProcessException(DBConcurrencyException,SentryEvent)
+  name: ProcessException(DBConcurrencyException, SentryEvent)
+  href: api/Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.html#Sentry_EntityFramework_ErrorProcessors_DbConcurrencyExceptionProcessor_ProcessException_DBConcurrencyException_SentryEvent_
+  commentId: M:Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.ProcessException(DBConcurrencyException,SentryEvent)
+  fullName: Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.ProcessException(DBConcurrencyException, SentryEvent)
+  nameWithType: DbConcurrencyExceptionProcessor.ProcessException(DBConcurrencyException, SentryEvent)
+- uid: Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.ProcessException*
+  name: ProcessException
+  href: api/Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.html#Sentry_EntityFramework_ErrorProcessors_DbConcurrencyExceptionProcessor_ProcessException_
+  commentId: Overload:Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.ProcessException
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.ErrorProcessors.DbConcurrencyExceptionProcessor.ProcessException
+  nameWithType: DbConcurrencyExceptionProcessor.ProcessException
+- uid: Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor
+  name: DbEntityValidationExceptionProcessor
+  href: api/Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.html
+  commentId: T:Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor
+  fullName: Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor
+  nameWithType: DbEntityValidationExceptionProcessor
+- uid: Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.ProcessException(DbEntityValidationException,SentryEvent)
+  name: ProcessException(DbEntityValidationException, SentryEvent)
+  href: api/Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.html#Sentry_EntityFramework_ErrorProcessors_DbEntityValidationExceptionProcessor_ProcessException_DbEntityValidationException_SentryEvent_
+  commentId: M:Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.ProcessException(DbEntityValidationException,SentryEvent)
+  fullName: Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.ProcessException(DbEntityValidationException, SentryEvent)
+  nameWithType: DbEntityValidationExceptionProcessor.ProcessException(DbEntityValidationException, SentryEvent)
+- uid: Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.ProcessException*
+  name: ProcessException
+  href: api/Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.html#Sentry_EntityFramework_ErrorProcessors_DbEntityValidationExceptionProcessor_ProcessException_
+  commentId: Overload:Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.ProcessException
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.ErrorProcessors.DbEntityValidationExceptionProcessor.ProcessException
+  nameWithType: DbEntityValidationExceptionProcessor.ProcessException
+- uid: Sentry.EntityFramework.IQueryLogger
+  name: IQueryLogger
+  href: api/Sentry.EntityFramework.IQueryLogger.html
+  commentId: T:Sentry.EntityFramework.IQueryLogger
+  fullName: Sentry.EntityFramework.IQueryLogger
+  nameWithType: IQueryLogger
+- uid: Sentry.EntityFramework.IQueryLogger.Log(System.String,BreadcrumbLevel)
+  name: Log(String, BreadcrumbLevel)
+  href: api/Sentry.EntityFramework.IQueryLogger.html#Sentry_EntityFramework_IQueryLogger_Log_System_String_BreadcrumbLevel_
+  commentId: M:Sentry.EntityFramework.IQueryLogger.Log(System.String,BreadcrumbLevel)
+  fullName: Sentry.EntityFramework.IQueryLogger.Log(System.String, BreadcrumbLevel)
+  nameWithType: IQueryLogger.Log(String, BreadcrumbLevel)
+- uid: Sentry.EntityFramework.IQueryLogger.Log*
+  name: Log
+  href: api/Sentry.EntityFramework.IQueryLogger.html#Sentry_EntityFramework_IQueryLogger_Log_
+  commentId: Overload:Sentry.EntityFramework.IQueryLogger.Log
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.IQueryLogger.Log
+  nameWithType: IQueryLogger.Log
+- uid: Sentry.EntityFramework.SentryCommandInterceptor
+  name: SentryCommandInterceptor
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html
+  commentId: T:Sentry.EntityFramework.SentryCommandInterceptor
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor
+  nameWithType: SentryCommandInterceptor
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.#ctor(Sentry.EntityFramework.IQueryLogger)
+  name: SentryCommandInterceptor(IQueryLogger)
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor__ctor_Sentry_EntityFramework_IQueryLogger_
+  commentId: M:Sentry.EntityFramework.SentryCommandInterceptor.#ctor(Sentry.EntityFramework.IQueryLogger)
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.SentryCommandInterceptor(Sentry.EntityFramework.IQueryLogger)
+  nameWithType: SentryCommandInterceptor.SentryCommandInterceptor(IQueryLogger)
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.#ctor*
+  name: SentryCommandInterceptor
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor__ctor_
+  commentId: Overload:Sentry.EntityFramework.SentryCommandInterceptor.#ctor
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.SentryCommandInterceptor
+  nameWithType: SentryCommandInterceptor.SentryCommandInterceptor
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.Log*
+  name: Log
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_Log_
+  commentId: Overload:Sentry.EntityFramework.SentryCommandInterceptor.Log
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.Log
+  nameWithType: SentryCommandInterceptor.Log
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.Log``1(DbCommand,DbCommandInterceptionContext{``0})
+  name: Log<T>(DbCommand, DbCommandInterceptionContext<T>)
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_Log__1_DbCommand_DbCommandInterceptionContext___0__
+  commentId: M:Sentry.EntityFramework.SentryCommandInterceptor.Log``1(DbCommand,DbCommandInterceptionContext{``0})
+  name.vb: Log(Of T)(DbCommand, DbCommandInterceptionContext(Of T))
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.Log<T>(DbCommand, DbCommandInterceptionContext<T>)
+  fullName.vb: Sentry.EntityFramework.SentryCommandInterceptor.Log(Of T)(DbCommand, DbCommandInterceptionContext(Of T))
+  nameWithType: SentryCommandInterceptor.Log<T>(DbCommand, DbCommandInterceptionContext<T>)
+  nameWithType.vb: SentryCommandInterceptor.Log(Of T)(DbCommand, DbCommandInterceptionContext(Of T))
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuted(DbCommand,DbCommandInterceptionContext{System.Int32})
+  name: NonQueryExecuted(DbCommand, DbCommandInterceptionContext<Int32>)
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_NonQueryExecuted_DbCommand_DbCommandInterceptionContext_System_Int32__
+  commentId: M:Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuted(DbCommand,DbCommandInterceptionContext{System.Int32})
+  name.vb: NonQueryExecuted(DbCommand, DbCommandInterceptionContext(Of Int32))
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuted(DbCommand, DbCommandInterceptionContext<System.Int32>)
+  fullName.vb: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuted(DbCommand, DbCommandInterceptionContext(Of System.Int32))
+  nameWithType: SentryCommandInterceptor.NonQueryExecuted(DbCommand, DbCommandInterceptionContext<Int32>)
+  nameWithType.vb: SentryCommandInterceptor.NonQueryExecuted(DbCommand, DbCommandInterceptionContext(Of Int32))
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuted*
+  name: NonQueryExecuted
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_NonQueryExecuted_
+  commentId: Overload:Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuted
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuted
+  nameWithType: SentryCommandInterceptor.NonQueryExecuted
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting(DbCommand,DbCommandInterceptionContext{System.Int32})
+  name: NonQueryExecuting(DbCommand, DbCommandInterceptionContext<Int32>)
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_NonQueryExecuting_DbCommand_DbCommandInterceptionContext_System_Int32__
+  commentId: M:Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting(DbCommand,DbCommandInterceptionContext{System.Int32})
+  name.vb: NonQueryExecuting(DbCommand, DbCommandInterceptionContext(Of Int32))
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting(DbCommand, DbCommandInterceptionContext<System.Int32>)
+  fullName.vb: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting(DbCommand, DbCommandInterceptionContext(Of System.Int32))
+  nameWithType: SentryCommandInterceptor.NonQueryExecuting(DbCommand, DbCommandInterceptionContext<Int32>)
+  nameWithType.vb: SentryCommandInterceptor.NonQueryExecuting(DbCommand, DbCommandInterceptionContext(Of Int32))
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting*
+  name: NonQueryExecuting
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_NonQueryExecuting_
+  commentId: Overload:Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.NonQueryExecuting
+  nameWithType: SentryCommandInterceptor.NonQueryExecuting
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuted(DbCommand,DbCommandInterceptionContext{DbDataReader})
+  name: ReaderExecuted(DbCommand, DbCommandInterceptionContext<DbDataReader>)
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_ReaderExecuted_DbCommand_DbCommandInterceptionContext_DbDataReader__
+  commentId: M:Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuted(DbCommand,DbCommandInterceptionContext{DbDataReader})
+  name.vb: ReaderExecuted(DbCommand, DbCommandInterceptionContext(Of DbDataReader))
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuted(DbCommand, DbCommandInterceptionContext<DbDataReader>)
+  fullName.vb: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuted(DbCommand, DbCommandInterceptionContext(Of DbDataReader))
+  nameWithType: SentryCommandInterceptor.ReaderExecuted(DbCommand, DbCommandInterceptionContext<DbDataReader>)
+  nameWithType.vb: SentryCommandInterceptor.ReaderExecuted(DbCommand, DbCommandInterceptionContext(Of DbDataReader))
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuted*
+  name: ReaderExecuted
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_ReaderExecuted_
+  commentId: Overload:Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuted
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuted
+  nameWithType: SentryCommandInterceptor.ReaderExecuted
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting(DbCommand,DbCommandInterceptionContext{DbDataReader})
+  name: ReaderExecuting(DbCommand, DbCommandInterceptionContext<DbDataReader>)
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_ReaderExecuting_DbCommand_DbCommandInterceptionContext_DbDataReader__
+  commentId: M:Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting(DbCommand,DbCommandInterceptionContext{DbDataReader})
+  name.vb: ReaderExecuting(DbCommand, DbCommandInterceptionContext(Of DbDataReader))
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting(DbCommand, DbCommandInterceptionContext<DbDataReader>)
+  fullName.vb: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting(DbCommand, DbCommandInterceptionContext(Of DbDataReader))
+  nameWithType: SentryCommandInterceptor.ReaderExecuting(DbCommand, DbCommandInterceptionContext<DbDataReader>)
+  nameWithType.vb: SentryCommandInterceptor.ReaderExecuting(DbCommand, DbCommandInterceptionContext(Of DbDataReader))
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting*
+  name: ReaderExecuting
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_ReaderExecuting_
+  commentId: Overload:Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.ReaderExecuting
+  nameWithType: SentryCommandInterceptor.ReaderExecuting
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted(DbCommand,DbCommandInterceptionContext{System.Object})
+  name: ScalarExecuted(DbCommand, DbCommandInterceptionContext<Object>)
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_ScalarExecuted_DbCommand_DbCommandInterceptionContext_System_Object__
+  commentId: M:Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted(DbCommand,DbCommandInterceptionContext{System.Object})
+  name.vb: ScalarExecuted(DbCommand, DbCommandInterceptionContext(Of Object))
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted(DbCommand, DbCommandInterceptionContext<System.Object>)
+  fullName.vb: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted(DbCommand, DbCommandInterceptionContext(Of System.Object))
+  nameWithType: SentryCommandInterceptor.ScalarExecuted(DbCommand, DbCommandInterceptionContext<Object>)
+  nameWithType.vb: SentryCommandInterceptor.ScalarExecuted(DbCommand, DbCommandInterceptionContext(Of Object))
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted*
+  name: ScalarExecuted
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_ScalarExecuted_
+  commentId: Overload:Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuted
+  nameWithType: SentryCommandInterceptor.ScalarExecuted
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting(DbCommand,DbCommandInterceptionContext{System.Object})
+  name: ScalarExecuting(DbCommand, DbCommandInterceptionContext<Object>)
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_ScalarExecuting_DbCommand_DbCommandInterceptionContext_System_Object__
+  commentId: M:Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting(DbCommand,DbCommandInterceptionContext{System.Object})
+  name.vb: ScalarExecuting(DbCommand, DbCommandInterceptionContext(Of Object))
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting(DbCommand, DbCommandInterceptionContext<System.Object>)
+  fullName.vb: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting(DbCommand, DbCommandInterceptionContext(Of System.Object))
+  nameWithType: SentryCommandInterceptor.ScalarExecuting(DbCommand, DbCommandInterceptionContext<Object>)
+  nameWithType.vb: SentryCommandInterceptor.ScalarExecuting(DbCommand, DbCommandInterceptionContext(Of Object))
+- uid: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting*
+  name: ScalarExecuting
+  href: api/Sentry.EntityFramework.SentryCommandInterceptor.html#Sentry_EntityFramework_SentryCommandInterceptor_ScalarExecuting_
+  commentId: Overload:Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryCommandInterceptor.ScalarExecuting
+  nameWithType: SentryCommandInterceptor.ScalarExecuting
+- uid: Sentry.EntityFramework.SentryDatabaseLogging
+  name: SentryDatabaseLogging
+  href: api/Sentry.EntityFramework.SentryDatabaseLogging.html
+  commentId: T:Sentry.EntityFramework.SentryDatabaseLogging
+  fullName: Sentry.EntityFramework.SentryDatabaseLogging
+  nameWithType: SentryDatabaseLogging
+- uid: Sentry.EntityFramework.SentryDatabaseLogging.UseBreadcrumbs(Sentry.EntityFramework.IQueryLogger)
+  name: UseBreadcrumbs(IQueryLogger)
+  href: api/Sentry.EntityFramework.SentryDatabaseLogging.html#Sentry_EntityFramework_SentryDatabaseLogging_UseBreadcrumbs_Sentry_EntityFramework_IQueryLogger_
+  commentId: M:Sentry.EntityFramework.SentryDatabaseLogging.UseBreadcrumbs(Sentry.EntityFramework.IQueryLogger)
+  fullName: Sentry.EntityFramework.SentryDatabaseLogging.UseBreadcrumbs(Sentry.EntityFramework.IQueryLogger)
+  nameWithType: SentryDatabaseLogging.UseBreadcrumbs(IQueryLogger)
+- uid: Sentry.EntityFramework.SentryDatabaseLogging.UseBreadcrumbs*
+  name: UseBreadcrumbs
+  href: api/Sentry.EntityFramework.SentryDatabaseLogging.html#Sentry_EntityFramework_SentryDatabaseLogging_UseBreadcrumbs_
+  commentId: Overload:Sentry.EntityFramework.SentryDatabaseLogging.UseBreadcrumbs
+  isSpec: "True"
+  fullName: Sentry.EntityFramework.SentryDatabaseLogging.UseBreadcrumbs
+  nameWithType: SentryDatabaseLogging.UseBreadcrumbs
+- uid: Sentry.Extensions.Logging
+  name: Sentry.Extensions.Logging
+  href: api/Sentry.Extensions.Logging.html
+  commentId: N:Sentry.Extensions.Logging
+  fullName: Sentry.Extensions.Logging
+  nameWithType: Sentry.Extensions.Logging
+- uid: Sentry.Extensions.Logging.DelegateLogEntryFilter
+  name: DelegateLogEntryFilter
+  href: api/Sentry.Extensions.Logging.DelegateLogEntryFilter.html
+  commentId: T:Sentry.Extensions.Logging.DelegateLogEntryFilter
+  fullName: Sentry.Extensions.Logging.DelegateLogEntryFilter
+  nameWithType: DelegateLogEntryFilter
+- uid: Sentry.Extensions.Logging.DelegateLogEntryFilter.#ctor(Func{System.String,LogLevel,EventId,System.Nullable{Exception},System.Boolean})
+  name: DelegateLogEntryFilter(Func<String, LogLevel, EventId, Nullable<Exception>, Boolean>)
+  href: api/Sentry.Extensions.Logging.DelegateLogEntryFilter.html#Sentry_Extensions_Logging_DelegateLogEntryFilter__ctor_Func_System_String_LogLevel_EventId_System_Nullable_Exception__System_Boolean__
+  commentId: M:Sentry.Extensions.Logging.DelegateLogEntryFilter.#ctor(Func{System.String,LogLevel,EventId,System.Nullable{Exception},System.Boolean})
+  name.vb: DelegateLogEntryFilter(Func(Of String, LogLevel, EventId, Nullable(Of Exception), Boolean))
+  fullName: Sentry.Extensions.Logging.DelegateLogEntryFilter.DelegateLogEntryFilter(Func<System.String, LogLevel, EventId, System.Nullable<Exception>, System.Boolean>)
+  fullName.vb: Sentry.Extensions.Logging.DelegateLogEntryFilter.DelegateLogEntryFilter(Func(Of System.String, LogLevel, EventId, System.Nullable(Of Exception), System.Boolean))
+  nameWithType: DelegateLogEntryFilter.DelegateLogEntryFilter(Func<String, LogLevel, EventId, Nullable<Exception>, Boolean>)
+  nameWithType.vb: DelegateLogEntryFilter.DelegateLogEntryFilter(Func(Of String, LogLevel, EventId, Nullable(Of Exception), Boolean))
+- uid: Sentry.Extensions.Logging.DelegateLogEntryFilter.#ctor*
+  name: DelegateLogEntryFilter
+  href: api/Sentry.Extensions.Logging.DelegateLogEntryFilter.html#Sentry_Extensions_Logging_DelegateLogEntryFilter__ctor_
+  commentId: Overload:Sentry.Extensions.Logging.DelegateLogEntryFilter.#ctor
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.DelegateLogEntryFilter.DelegateLogEntryFilter
+  nameWithType: DelegateLogEntryFilter.DelegateLogEntryFilter
+- uid: Sentry.Extensions.Logging.DelegateLogEntryFilter.Filter(System.String,LogLevel,EventId,System.Nullable{Exception})
+  name: Filter(String, LogLevel, EventId, Nullable<Exception>)
+  href: api/Sentry.Extensions.Logging.DelegateLogEntryFilter.html#Sentry_Extensions_Logging_DelegateLogEntryFilter_Filter_System_String_LogLevel_EventId_System_Nullable_Exception__
+  commentId: M:Sentry.Extensions.Logging.DelegateLogEntryFilter.Filter(System.String,LogLevel,EventId,System.Nullable{Exception})
+  name.vb: Filter(String, LogLevel, EventId, Nullable(Of Exception))
+  fullName: Sentry.Extensions.Logging.DelegateLogEntryFilter.Filter(System.String, LogLevel, EventId, System.Nullable<Exception>)
+  fullName.vb: Sentry.Extensions.Logging.DelegateLogEntryFilter.Filter(System.String, LogLevel, EventId, System.Nullable(Of Exception))
+  nameWithType: DelegateLogEntryFilter.Filter(String, LogLevel, EventId, Nullable<Exception>)
+  nameWithType.vb: DelegateLogEntryFilter.Filter(String, LogLevel, EventId, Nullable(Of Exception))
+- uid: Sentry.Extensions.Logging.DelegateLogEntryFilter.Filter*
+  name: Filter
+  href: api/Sentry.Extensions.Logging.DelegateLogEntryFilter.html#Sentry_Extensions_Logging_DelegateLogEntryFilter_Filter_
+  commentId: Overload:Sentry.Extensions.Logging.DelegateLogEntryFilter.Filter
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.DelegateLogEntryFilter.Filter
+  nameWithType: DelegateLogEntryFilter.Filter
+- uid: Sentry.Extensions.Logging.Extensions.DependencyInjection
+  name: Sentry.Extensions.Logging.Extensions.DependencyInjection
+  href: api/Sentry.Extensions.Logging.Extensions.DependencyInjection.html
+  commentId: N:Sentry.Extensions.Logging.Extensions.DependencyInjection
+  fullName: Sentry.Extensions.Logging.Extensions.DependencyInjection
+  nameWithType: Sentry.Extensions.Logging.Extensions.DependencyInjection
+- uid: Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions
+  name: ServiceCollectionExtensions
+  href: api/Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.html
+  commentId: T:Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions
+  fullName: Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions
+  nameWithType: ServiceCollectionExtensions
+- uid: Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry*
+  name: AddSentry
+  href: api/Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Sentry_Extensions_Logging_Extensions_DependencyInjection_ServiceCollectionExtensions_AddSentry_
+  commentId: Overload:Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry
+  nameWithType: ServiceCollectionExtensions.AddSentry
+- uid: Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry``1(IServiceCollection)
+  name: AddSentry<TOptions>(IServiceCollection)
+  href: api/Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.html#Sentry_Extensions_Logging_Extensions_DependencyInjection_ServiceCollectionExtensions_AddSentry__1_IServiceCollection_
+  commentId: M:Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry``1(IServiceCollection)
+  name.vb: AddSentry(Of TOptions)(IServiceCollection)
+  fullName: Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry<TOptions>(IServiceCollection)
+  fullName.vb: Sentry.Extensions.Logging.Extensions.DependencyInjection.ServiceCollectionExtensions.AddSentry(Of TOptions)(IServiceCollection)
+  nameWithType: ServiceCollectionExtensions.AddSentry<TOptions>(IServiceCollection)
+  nameWithType.vb: ServiceCollectionExtensions.AddSentry(Of TOptions)(IServiceCollection)
+- uid: Sentry.Extensions.Logging.ILogEntryFilter
+  name: ILogEntryFilter
+  href: api/Sentry.Extensions.Logging.ILogEntryFilter.html
+  commentId: T:Sentry.Extensions.Logging.ILogEntryFilter
+  fullName: Sentry.Extensions.Logging.ILogEntryFilter
+  nameWithType: ILogEntryFilter
+- uid: Sentry.Extensions.Logging.ILogEntryFilter.Filter(System.String,LogLevel,EventId,System.Nullable{Exception})
+  name: Filter(String, LogLevel, EventId, Nullable<Exception>)
+  href: api/Sentry.Extensions.Logging.ILogEntryFilter.html#Sentry_Extensions_Logging_ILogEntryFilter_Filter_System_String_LogLevel_EventId_System_Nullable_Exception__
+  commentId: M:Sentry.Extensions.Logging.ILogEntryFilter.Filter(System.String,LogLevel,EventId,System.Nullable{Exception})
+  name.vb: Filter(String, LogLevel, EventId, Nullable(Of Exception))
+  fullName: Sentry.Extensions.Logging.ILogEntryFilter.Filter(System.String, LogLevel, EventId, System.Nullable<Exception>)
+  fullName.vb: Sentry.Extensions.Logging.ILogEntryFilter.Filter(System.String, LogLevel, EventId, System.Nullable(Of Exception))
+  nameWithType: ILogEntryFilter.Filter(String, LogLevel, EventId, Nullable<Exception>)
+  nameWithType.vb: ILogEntryFilter.Filter(String, LogLevel, EventId, Nullable(Of Exception))
+- uid: Sentry.Extensions.Logging.ILogEntryFilter.Filter*
+  name: Filter
+  href: api/Sentry.Extensions.Logging.ILogEntryFilter.html#Sentry_Extensions_Logging_ILogEntryFilter_Filter_
+  commentId: Overload:Sentry.Extensions.Logging.ILogEntryFilter.Filter
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.ILogEntryFilter.Filter
+  nameWithType: ILogEntryFilter.Filter
+- uid: Sentry.Extensions.Logging.MelDiagnosticLogger
+  name: MelDiagnosticLogger
+  href: api/Sentry.Extensions.Logging.MelDiagnosticLogger.html
+  commentId: T:Sentry.Extensions.Logging.MelDiagnosticLogger
+  fullName: Sentry.Extensions.Logging.MelDiagnosticLogger
+  nameWithType: MelDiagnosticLogger
+- uid: Sentry.Extensions.Logging.MelDiagnosticLogger.#ctor(ILogger{ISentryClient},SentryLevel)
+  name: MelDiagnosticLogger(ILogger<ISentryClient>, SentryLevel)
+  href: api/Sentry.Extensions.Logging.MelDiagnosticLogger.html#Sentry_Extensions_Logging_MelDiagnosticLogger__ctor_ILogger_ISentryClient__SentryLevel_
+  commentId: M:Sentry.Extensions.Logging.MelDiagnosticLogger.#ctor(ILogger{ISentryClient},SentryLevel)
+  name.vb: MelDiagnosticLogger(ILogger(Of ISentryClient), SentryLevel)
+  fullName: Sentry.Extensions.Logging.MelDiagnosticLogger.MelDiagnosticLogger(ILogger<ISentryClient>, SentryLevel)
+  fullName.vb: Sentry.Extensions.Logging.MelDiagnosticLogger.MelDiagnosticLogger(ILogger(Of ISentryClient), SentryLevel)
+  nameWithType: MelDiagnosticLogger.MelDiagnosticLogger(ILogger<ISentryClient>, SentryLevel)
+  nameWithType.vb: MelDiagnosticLogger.MelDiagnosticLogger(ILogger(Of ISentryClient), SentryLevel)
+- uid: Sentry.Extensions.Logging.MelDiagnosticLogger.#ctor*
+  name: MelDiagnosticLogger
+  href: api/Sentry.Extensions.Logging.MelDiagnosticLogger.html#Sentry_Extensions_Logging_MelDiagnosticLogger__ctor_
+  commentId: Overload:Sentry.Extensions.Logging.MelDiagnosticLogger.#ctor
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.MelDiagnosticLogger.MelDiagnosticLogger
+  nameWithType: MelDiagnosticLogger.MelDiagnosticLogger
+- uid: Sentry.Extensions.Logging.MelDiagnosticLogger.IsEnabled(SentryLevel)
+  name: IsEnabled(SentryLevel)
+  href: api/Sentry.Extensions.Logging.MelDiagnosticLogger.html#Sentry_Extensions_Logging_MelDiagnosticLogger_IsEnabled_SentryLevel_
+  commentId: M:Sentry.Extensions.Logging.MelDiagnosticLogger.IsEnabled(SentryLevel)
+  fullName: Sentry.Extensions.Logging.MelDiagnosticLogger.IsEnabled(SentryLevel)
+  nameWithType: MelDiagnosticLogger.IsEnabled(SentryLevel)
+- uid: Sentry.Extensions.Logging.MelDiagnosticLogger.IsEnabled*
+  name: IsEnabled
+  href: api/Sentry.Extensions.Logging.MelDiagnosticLogger.html#Sentry_Extensions_Logging_MelDiagnosticLogger_IsEnabled_
+  commentId: Overload:Sentry.Extensions.Logging.MelDiagnosticLogger.IsEnabled
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.MelDiagnosticLogger.IsEnabled
+  nameWithType: MelDiagnosticLogger.IsEnabled
+- uid: Sentry.Extensions.Logging.MelDiagnosticLogger.Log(SentryLevel,System.String,System.Nullable{Exception},System.Nullable{System.Object}[])
+  name: Log(SentryLevel, String, Nullable<Exception>, Nullable<Object>[])
+  href: api/Sentry.Extensions.Logging.MelDiagnosticLogger.html#Sentry_Extensions_Logging_MelDiagnosticLogger_Log_SentryLevel_System_String_System_Nullable_Exception__System_Nullable_System_Object____
+  commentId: M:Sentry.Extensions.Logging.MelDiagnosticLogger.Log(SentryLevel,System.String,System.Nullable{Exception},System.Nullable{System.Object}[])
+  name.vb: Log(SentryLevel, String, Nullable(Of Exception), Nullable(Of Object)())
+  fullName: Sentry.Extensions.Logging.MelDiagnosticLogger.Log(SentryLevel, System.String, System.Nullable<Exception>, System.Nullable<System.Object>[])
+  fullName.vb: Sentry.Extensions.Logging.MelDiagnosticLogger.Log(SentryLevel, System.String, System.Nullable(Of Exception), System.Nullable(Of System.Object)())
+  nameWithType: MelDiagnosticLogger.Log(SentryLevel, String, Nullable<Exception>, Nullable<Object>[])
+  nameWithType.vb: MelDiagnosticLogger.Log(SentryLevel, String, Nullable(Of Exception), Nullable(Of Object)())
+- uid: Sentry.Extensions.Logging.MelDiagnosticLogger.Log*
+  name: Log
+  href: api/Sentry.Extensions.Logging.MelDiagnosticLogger.html#Sentry_Extensions_Logging_MelDiagnosticLogger_Log_
+  commentId: Overload:Sentry.Extensions.Logging.MelDiagnosticLogger.Log
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.MelDiagnosticLogger.Log
+  nameWithType: MelDiagnosticLogger.Log
+- uid: Sentry.Extensions.Logging.SentryLoggerProvider
+  name: SentryLoggerProvider
+  href: api/Sentry.Extensions.Logging.SentryLoggerProvider.html
+  commentId: T:Sentry.Extensions.Logging.SentryLoggerProvider
+  fullName: Sentry.Extensions.Logging.SentryLoggerProvider
+  nameWithType: SentryLoggerProvider
+- uid: Sentry.Extensions.Logging.SentryLoggerProvider.#ctor(IOptions{Sentry.Extensions.Logging.SentryLoggingOptions},IHub)
+  name: SentryLoggerProvider(IOptions<SentryLoggingOptions>, IHub)
+  href: api/Sentry.Extensions.Logging.SentryLoggerProvider.html#Sentry_Extensions_Logging_SentryLoggerProvider__ctor_IOptions_Sentry_Extensions_Logging_SentryLoggingOptions__IHub_
+  commentId: M:Sentry.Extensions.Logging.SentryLoggerProvider.#ctor(IOptions{Sentry.Extensions.Logging.SentryLoggingOptions},IHub)
+  name.vb: SentryLoggerProvider(IOptions(Of SentryLoggingOptions), IHub)
+  fullName: Sentry.Extensions.Logging.SentryLoggerProvider.SentryLoggerProvider(IOptions<Sentry.Extensions.Logging.SentryLoggingOptions>, IHub)
+  fullName.vb: Sentry.Extensions.Logging.SentryLoggerProvider.SentryLoggerProvider(IOptions(Of Sentry.Extensions.Logging.SentryLoggingOptions), IHub)
+  nameWithType: SentryLoggerProvider.SentryLoggerProvider(IOptions<SentryLoggingOptions>, IHub)
+  nameWithType.vb: SentryLoggerProvider.SentryLoggerProvider(IOptions(Of SentryLoggingOptions), IHub)
+- uid: Sentry.Extensions.Logging.SentryLoggerProvider.#ctor*
+  name: SentryLoggerProvider
+  href: api/Sentry.Extensions.Logging.SentryLoggerProvider.html#Sentry_Extensions_Logging_SentryLoggerProvider__ctor_
+  commentId: Overload:Sentry.Extensions.Logging.SentryLoggerProvider.#ctor
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.SentryLoggerProvider.SentryLoggerProvider
+  nameWithType: SentryLoggerProvider.SentryLoggerProvider
+- uid: Sentry.Extensions.Logging.SentryLoggerProvider.CreateLogger(System.String)
+  name: CreateLogger(String)
+  href: api/Sentry.Extensions.Logging.SentryLoggerProvider.html#Sentry_Extensions_Logging_SentryLoggerProvider_CreateLogger_System_String_
+  commentId: M:Sentry.Extensions.Logging.SentryLoggerProvider.CreateLogger(System.String)
+  fullName: Sentry.Extensions.Logging.SentryLoggerProvider.CreateLogger(System.String)
+  nameWithType: SentryLoggerProvider.CreateLogger(String)
+- uid: Sentry.Extensions.Logging.SentryLoggerProvider.CreateLogger*
+  name: CreateLogger
+  href: api/Sentry.Extensions.Logging.SentryLoggerProvider.html#Sentry_Extensions_Logging_SentryLoggerProvider_CreateLogger_
+  commentId: Overload:Sentry.Extensions.Logging.SentryLoggerProvider.CreateLogger
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.SentryLoggerProvider.CreateLogger
+  nameWithType: SentryLoggerProvider.CreateLogger
+- uid: Sentry.Extensions.Logging.SentryLoggerProvider.Dispose
+  name: Dispose()
+  href: api/Sentry.Extensions.Logging.SentryLoggerProvider.html#Sentry_Extensions_Logging_SentryLoggerProvider_Dispose
+  commentId: M:Sentry.Extensions.Logging.SentryLoggerProvider.Dispose
+  fullName: Sentry.Extensions.Logging.SentryLoggerProvider.Dispose()
+  nameWithType: SentryLoggerProvider.Dispose()
+- uid: Sentry.Extensions.Logging.SentryLoggerProvider.Dispose*
+  name: Dispose
+  href: api/Sentry.Extensions.Logging.SentryLoggerProvider.html#Sentry_Extensions_Logging_SentryLoggerProvider_Dispose_
+  commentId: Overload:Sentry.Extensions.Logging.SentryLoggerProvider.Dispose
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.SentryLoggerProvider.Dispose
+  nameWithType: SentryLoggerProvider.Dispose
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions
+  name: SentryLoggingOptions
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html
+  commentId: T:Sentry.Extensions.Logging.SentryLoggingOptions
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions
+  nameWithType: SentryLoggingOptions
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions.ConfigureScope(Action{Scope})
+  name: ConfigureScope(Action<Scope>)
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html#Sentry_Extensions_Logging_SentryLoggingOptions_ConfigureScope_Action_Scope__
+  commentId: M:Sentry.Extensions.Logging.SentryLoggingOptions.ConfigureScope(Action{Scope})
+  name.vb: ConfigureScope(Action(Of Scope))
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions.ConfigureScope(Action<Scope>)
+  fullName.vb: Sentry.Extensions.Logging.SentryLoggingOptions.ConfigureScope(Action(Of Scope))
+  nameWithType: SentryLoggingOptions.ConfigureScope(Action<Scope>)
+  nameWithType.vb: SentryLoggingOptions.ConfigureScope(Action(Of Scope))
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions.ConfigureScope*
+  name: ConfigureScope
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html#Sentry_Extensions_Logging_SentryLoggingOptions_ConfigureScope_
+  commentId: Overload:Sentry.Extensions.Logging.SentryLoggingOptions.ConfigureScope
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions.ConfigureScope
+  nameWithType: SentryLoggingOptions.ConfigureScope
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions.InitializeSdk
+  name: InitializeSdk
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html#Sentry_Extensions_Logging_SentryLoggingOptions_InitializeSdk
+  commentId: P:Sentry.Extensions.Logging.SentryLoggingOptions.InitializeSdk
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions.InitializeSdk
+  nameWithType: SentryLoggingOptions.InitializeSdk
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions.InitializeSdk*
+  name: InitializeSdk
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html#Sentry_Extensions_Logging_SentryLoggingOptions_InitializeSdk_
+  commentId: Overload:Sentry.Extensions.Logging.SentryLoggingOptions.InitializeSdk
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions.InitializeSdk
+  nameWithType: SentryLoggingOptions.InitializeSdk
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions.MinimumBreadcrumbLevel
+  name: MinimumBreadcrumbLevel
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html#Sentry_Extensions_Logging_SentryLoggingOptions_MinimumBreadcrumbLevel
+  commentId: P:Sentry.Extensions.Logging.SentryLoggingOptions.MinimumBreadcrumbLevel
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions.MinimumBreadcrumbLevel
+  nameWithType: SentryLoggingOptions.MinimumBreadcrumbLevel
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions.MinimumBreadcrumbLevel*
+  name: MinimumBreadcrumbLevel
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html#Sentry_Extensions_Logging_SentryLoggingOptions_MinimumBreadcrumbLevel_
+  commentId: Overload:Sentry.Extensions.Logging.SentryLoggingOptions.MinimumBreadcrumbLevel
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions.MinimumBreadcrumbLevel
+  nameWithType: SentryLoggingOptions.MinimumBreadcrumbLevel
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions.MinimumEventLevel
+  name: MinimumEventLevel
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html#Sentry_Extensions_Logging_SentryLoggingOptions_MinimumEventLevel
+  commentId: P:Sentry.Extensions.Logging.SentryLoggingOptions.MinimumEventLevel
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions.MinimumEventLevel
+  nameWithType: SentryLoggingOptions.MinimumEventLevel
+- uid: Sentry.Extensions.Logging.SentryLoggingOptions.MinimumEventLevel*
+  name: MinimumEventLevel
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptions.html#Sentry_Extensions_Logging_SentryLoggingOptions_MinimumEventLevel_
+  commentId: Overload:Sentry.Extensions.Logging.SentryLoggingOptions.MinimumEventLevel
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptions.MinimumEventLevel
+  nameWithType: SentryLoggingOptions.MinimumEventLevel
+- uid: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions
+  name: SentryLoggingOptionsExtensions
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.html
+  commentId: T:Sentry.Extensions.Logging.SentryLoggingOptionsExtensions
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions
+  nameWithType: SentryLoggingOptionsExtensions
+- uid: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter(Sentry.Extensions.Logging.SentryLoggingOptions,Func{System.String,LogLevel,EventId,System.Nullable{Exception},System.Boolean})
+  name: AddLogEntryFilter(SentryLoggingOptions, Func<String, LogLevel, EventId, Nullable<Exception>, Boolean>)
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.html#Sentry_Extensions_Logging_SentryLoggingOptionsExtensions_AddLogEntryFilter_Sentry_Extensions_Logging_SentryLoggingOptions_Func_System_String_LogLevel_EventId_System_Nullable_Exception__System_Boolean__
+  commentId: M:Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter(Sentry.Extensions.Logging.SentryLoggingOptions,Func{System.String,LogLevel,EventId,System.Nullable{Exception},System.Boolean})
+  name.vb: AddLogEntryFilter(SentryLoggingOptions, Func(Of String, LogLevel, EventId, Nullable(Of Exception), Boolean))
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter(Sentry.Extensions.Logging.SentryLoggingOptions, Func<System.String, LogLevel, EventId, System.Nullable<Exception>, System.Boolean>)
+  fullName.vb: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter(Sentry.Extensions.Logging.SentryLoggingOptions, Func(Of System.String, LogLevel, EventId, System.Nullable(Of Exception), System.Boolean))
+  nameWithType: SentryLoggingOptionsExtensions.AddLogEntryFilter(SentryLoggingOptions, Func<String, LogLevel, EventId, Nullable<Exception>, Boolean>)
+  nameWithType.vb: SentryLoggingOptionsExtensions.AddLogEntryFilter(SentryLoggingOptions, Func(Of String, LogLevel, EventId, Nullable(Of Exception), Boolean))
+- uid: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter(Sentry.Extensions.Logging.SentryLoggingOptions,Sentry.Extensions.Logging.ILogEntryFilter)
+  name: AddLogEntryFilter(SentryLoggingOptions, ILogEntryFilter)
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.html#Sentry_Extensions_Logging_SentryLoggingOptionsExtensions_AddLogEntryFilter_Sentry_Extensions_Logging_SentryLoggingOptions_Sentry_Extensions_Logging_ILogEntryFilter_
+  commentId: M:Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter(Sentry.Extensions.Logging.SentryLoggingOptions,Sentry.Extensions.Logging.ILogEntryFilter)
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter(Sentry.Extensions.Logging.SentryLoggingOptions, Sentry.Extensions.Logging.ILogEntryFilter)
+  nameWithType: SentryLoggingOptionsExtensions.AddLogEntryFilter(SentryLoggingOptions, ILogEntryFilter)
+- uid: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter*
+  name: AddLogEntryFilter
+  href: api/Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.html#Sentry_Extensions_Logging_SentryLoggingOptionsExtensions_AddLogEntryFilter_
+  commentId: Overload:Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter
+  isSpec: "True"
+  fullName: Sentry.Extensions.Logging.SentryLoggingOptionsExtensions.AddLogEntryFilter
+  nameWithType: SentryLoggingOptionsExtensions.AddLogEntryFilter
+- uid: Sentry.Log4Net
+  name: Sentry.Log4Net
+  href: api/Sentry.Log4Net.html
+  commentId: N:Sentry.Log4Net
+  fullName: Sentry.Log4Net
+  nameWithType: Sentry.Log4Net
+- uid: Sentry.Log4Net.SentryAppender
+  name: SentryAppender
+  href: api/Sentry.Log4Net.SentryAppender.html
+  commentId: T:Sentry.Log4Net.SentryAppender
+  fullName: Sentry.Log4Net.SentryAppender
+  nameWithType: SentryAppender
+- uid: Sentry.Log4Net.SentryAppender.#ctor
+  name: SentryAppender()
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender__ctor
+  commentId: M:Sentry.Log4Net.SentryAppender.#ctor
+  fullName: Sentry.Log4Net.SentryAppender.SentryAppender()
+  nameWithType: SentryAppender.SentryAppender()
+- uid: Sentry.Log4Net.SentryAppender.#ctor*
+  name: SentryAppender
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender__ctor_
+  commentId: Overload:Sentry.Log4Net.SentryAppender.#ctor
+  isSpec: "True"
+  fullName: Sentry.Log4Net.SentryAppender.SentryAppender
+  nameWithType: SentryAppender.SentryAppender
+- uid: Sentry.Log4Net.SentryAppender.Append(LoggingEvent)
+  name: Append(LoggingEvent)
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_Append_LoggingEvent_
+  commentId: M:Sentry.Log4Net.SentryAppender.Append(LoggingEvent)
+  fullName: Sentry.Log4Net.SentryAppender.Append(LoggingEvent)
+  nameWithType: SentryAppender.Append(LoggingEvent)
+- uid: Sentry.Log4Net.SentryAppender.Append*
+  name: Append
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_Append_
+  commentId: Overload:Sentry.Log4Net.SentryAppender.Append
+  isSpec: "True"
+  fullName: Sentry.Log4Net.SentryAppender.Append
+  nameWithType: SentryAppender.Append
+- uid: Sentry.Log4Net.SentryAppender.Dsn
+  name: Dsn
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_Dsn
+  commentId: P:Sentry.Log4Net.SentryAppender.Dsn
+  fullName: Sentry.Log4Net.SentryAppender.Dsn
+  nameWithType: SentryAppender.Dsn
+- uid: Sentry.Log4Net.SentryAppender.Dsn*
+  name: Dsn
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_Dsn_
+  commentId: Overload:Sentry.Log4Net.SentryAppender.Dsn
+  isSpec: "True"
+  fullName: Sentry.Log4Net.SentryAppender.Dsn
+  nameWithType: SentryAppender.Dsn
+- uid: Sentry.Log4Net.SentryAppender.Environment
+  name: Environment
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_Environment
+  commentId: P:Sentry.Log4Net.SentryAppender.Environment
+  fullName: Sentry.Log4Net.SentryAppender.Environment
+  nameWithType: SentryAppender.Environment
+- uid: Sentry.Log4Net.SentryAppender.Environment*
+  name: Environment
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_Environment_
+  commentId: Overload:Sentry.Log4Net.SentryAppender.Environment
+  isSpec: "True"
+  fullName: Sentry.Log4Net.SentryAppender.Environment
+  nameWithType: SentryAppender.Environment
+- uid: Sentry.Log4Net.SentryAppender.OnClose
+  name: OnClose()
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_OnClose
+  commentId: M:Sentry.Log4Net.SentryAppender.OnClose
+  fullName: Sentry.Log4Net.SentryAppender.OnClose()
+  nameWithType: SentryAppender.OnClose()
+- uid: Sentry.Log4Net.SentryAppender.OnClose*
+  name: OnClose
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_OnClose_
+  commentId: Overload:Sentry.Log4Net.SentryAppender.OnClose
+  isSpec: "True"
+  fullName: Sentry.Log4Net.SentryAppender.OnClose
+  nameWithType: SentryAppender.OnClose
+- uid: Sentry.Log4Net.SentryAppender.SendIdentity
+  name: SendIdentity
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_SendIdentity
+  commentId: P:Sentry.Log4Net.SentryAppender.SendIdentity
+  fullName: Sentry.Log4Net.SentryAppender.SendIdentity
+  nameWithType: SentryAppender.SendIdentity
+- uid: Sentry.Log4Net.SentryAppender.SendIdentity*
+  name: SendIdentity
+  href: api/Sentry.Log4Net.SentryAppender.html#Sentry_Log4Net_SentryAppender_SendIdentity_
+  commentId: Overload:Sentry.Log4Net.SentryAppender.SendIdentity
+  isSpec: "True"
+  fullName: Sentry.Log4Net.SentryAppender.SendIdentity
+  nameWithType: SentryAppender.SendIdentity
+- uid: Sentry.NLog
+  name: Sentry.NLog
+  href: api/Sentry.NLog.html
+  commentId: N:Sentry.NLog
+  fullName: Sentry.NLog
+  nameWithType: Sentry.NLog
+- uid: Sentry.NLog.SentryNLogOptions
+  name: SentryNLogOptions
+  href: api/Sentry.NLog.SentryNLogOptions.html
+  commentId: T:Sentry.NLog.SentryNLogOptions
+  fullName: Sentry.NLog.SentryNLogOptions
+  nameWithType: SentryNLogOptions
+- uid: Sentry.NLog.SentryNLogOptions.BreadcrumbCategoryLayout
+  name: BreadcrumbCategoryLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_BreadcrumbCategoryLayout
+  commentId: P:Sentry.NLog.SentryNLogOptions.BreadcrumbCategoryLayout
+  fullName: Sentry.NLog.SentryNLogOptions.BreadcrumbCategoryLayout
+  nameWithType: SentryNLogOptions.BreadcrumbCategoryLayout
+- uid: Sentry.NLog.SentryNLogOptions.BreadcrumbCategoryLayout*
+  name: BreadcrumbCategoryLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_BreadcrumbCategoryLayout_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.BreadcrumbCategoryLayout
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.BreadcrumbCategoryLayout
+  nameWithType: SentryNLogOptions.BreadcrumbCategoryLayout
+- uid: Sentry.NLog.SentryNLogOptions.BreadcrumbLayout
+  name: BreadcrumbLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_BreadcrumbLayout
+  commentId: P:Sentry.NLog.SentryNLogOptions.BreadcrumbLayout
+  fullName: Sentry.NLog.SentryNLogOptions.BreadcrumbLayout
+  nameWithType: SentryNLogOptions.BreadcrumbLayout
+- uid: Sentry.NLog.SentryNLogOptions.BreadcrumbLayout*
+  name: BreadcrumbLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_BreadcrumbLayout_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.BreadcrumbLayout
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.BreadcrumbLayout
+  nameWithType: SentryNLogOptions.BreadcrumbLayout
+- uid: Sentry.NLog.SentryNLogOptions.DsnLayout
+  name: DsnLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_DsnLayout
+  commentId: P:Sentry.NLog.SentryNLogOptions.DsnLayout
+  fullName: Sentry.NLog.SentryNLogOptions.DsnLayout
+  nameWithType: SentryNLogOptions.DsnLayout
+- uid: Sentry.NLog.SentryNLogOptions.DsnLayout*
+  name: DsnLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_DsnLayout_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.DsnLayout
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.DsnLayout
+  nameWithType: SentryNLogOptions.DsnLayout
+- uid: Sentry.NLog.SentryNLogOptions.EnvironmentLayout
+  name: EnvironmentLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_EnvironmentLayout
+  commentId: P:Sentry.NLog.SentryNLogOptions.EnvironmentLayout
+  fullName: Sentry.NLog.SentryNLogOptions.EnvironmentLayout
+  nameWithType: SentryNLogOptions.EnvironmentLayout
+- uid: Sentry.NLog.SentryNLogOptions.EnvironmentLayout*
+  name: EnvironmentLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_EnvironmentLayout_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.EnvironmentLayout
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.EnvironmentLayout
+  nameWithType: SentryNLogOptions.EnvironmentLayout
+- uid: Sentry.NLog.SentryNLogOptions.FlushTimeout
+  name: FlushTimeout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_FlushTimeout
+  commentId: P:Sentry.NLog.SentryNLogOptions.FlushTimeout
+  fullName: Sentry.NLog.SentryNLogOptions.FlushTimeout
+  nameWithType: SentryNLogOptions.FlushTimeout
+- uid: Sentry.NLog.SentryNLogOptions.FlushTimeout*
+  name: FlushTimeout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_FlushTimeout_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.FlushTimeout
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.FlushTimeout
+  nameWithType: SentryNLogOptions.FlushTimeout
+- uid: Sentry.NLog.SentryNLogOptions.IgnoreEventsWithNoException
+  name: IgnoreEventsWithNoException
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_IgnoreEventsWithNoException
+  commentId: P:Sentry.NLog.SentryNLogOptions.IgnoreEventsWithNoException
+  fullName: Sentry.NLog.SentryNLogOptions.IgnoreEventsWithNoException
+  nameWithType: SentryNLogOptions.IgnoreEventsWithNoException
+- uid: Sentry.NLog.SentryNLogOptions.IgnoreEventsWithNoException*
+  name: IgnoreEventsWithNoException
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_IgnoreEventsWithNoException_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.IgnoreEventsWithNoException
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.IgnoreEventsWithNoException
+  nameWithType: SentryNLogOptions.IgnoreEventsWithNoException
+- uid: Sentry.NLog.SentryNLogOptions.IncludeEventDataOnBreadcrumbs
+  name: IncludeEventDataOnBreadcrumbs
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_IncludeEventDataOnBreadcrumbs
+  commentId: P:Sentry.NLog.SentryNLogOptions.IncludeEventDataOnBreadcrumbs
+  fullName: Sentry.NLog.SentryNLogOptions.IncludeEventDataOnBreadcrumbs
+  nameWithType: SentryNLogOptions.IncludeEventDataOnBreadcrumbs
+- uid: Sentry.NLog.SentryNLogOptions.IncludeEventDataOnBreadcrumbs*
+  name: IncludeEventDataOnBreadcrumbs
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_IncludeEventDataOnBreadcrumbs_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.IncludeEventDataOnBreadcrumbs
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.IncludeEventDataOnBreadcrumbs
+  nameWithType: SentryNLogOptions.IncludeEventDataOnBreadcrumbs
+- uid: Sentry.NLog.SentryNLogOptions.IncludeEventPropertiesAsTags
+  name: IncludeEventPropertiesAsTags
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_IncludeEventPropertiesAsTags
+  commentId: P:Sentry.NLog.SentryNLogOptions.IncludeEventPropertiesAsTags
+  fullName: Sentry.NLog.SentryNLogOptions.IncludeEventPropertiesAsTags
+  nameWithType: SentryNLogOptions.IncludeEventPropertiesAsTags
+- uid: Sentry.NLog.SentryNLogOptions.IncludeEventPropertiesAsTags*
+  name: IncludeEventPropertiesAsTags
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_IncludeEventPropertiesAsTags_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.IncludeEventPropertiesAsTags
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.IncludeEventPropertiesAsTags
+  nameWithType: SentryNLogOptions.IncludeEventPropertiesAsTags
+- uid: Sentry.NLog.SentryNLogOptions.InitializeSdk
+  name: InitializeSdk
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_InitializeSdk
+  commentId: P:Sentry.NLog.SentryNLogOptions.InitializeSdk
+  fullName: Sentry.NLog.SentryNLogOptions.InitializeSdk
+  nameWithType: SentryNLogOptions.InitializeSdk
+- uid: Sentry.NLog.SentryNLogOptions.InitializeSdk*
+  name: InitializeSdk
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_InitializeSdk_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.InitializeSdk
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.InitializeSdk
+  nameWithType: SentryNLogOptions.InitializeSdk
+- uid: Sentry.NLog.SentryNLogOptions.Layout
+  name: Layout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_Layout
+  commentId: P:Sentry.NLog.SentryNLogOptions.Layout
+  fullName: Sentry.NLog.SentryNLogOptions.Layout
+  nameWithType: SentryNLogOptions.Layout
+- uid: Sentry.NLog.SentryNLogOptions.Layout*
+  name: Layout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_Layout_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.Layout
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.Layout
+  nameWithType: SentryNLogOptions.Layout
+- uid: Sentry.NLog.SentryNLogOptions.MinimumBreadcrumbLevel
+  name: MinimumBreadcrumbLevel
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_MinimumBreadcrumbLevel
+  commentId: P:Sentry.NLog.SentryNLogOptions.MinimumBreadcrumbLevel
+  fullName: Sentry.NLog.SentryNLogOptions.MinimumBreadcrumbLevel
+  nameWithType: SentryNLogOptions.MinimumBreadcrumbLevel
+- uid: Sentry.NLog.SentryNLogOptions.MinimumBreadcrumbLevel*
+  name: MinimumBreadcrumbLevel
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_MinimumBreadcrumbLevel_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.MinimumBreadcrumbLevel
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.MinimumBreadcrumbLevel
+  nameWithType: SentryNLogOptions.MinimumBreadcrumbLevel
+- uid: Sentry.NLog.SentryNLogOptions.MinimumEventLevel
+  name: MinimumEventLevel
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_MinimumEventLevel
+  commentId: P:Sentry.NLog.SentryNLogOptions.MinimumEventLevel
+  fullName: Sentry.NLog.SentryNLogOptions.MinimumEventLevel
+  nameWithType: SentryNLogOptions.MinimumEventLevel
+- uid: Sentry.NLog.SentryNLogOptions.MinimumEventLevel*
+  name: MinimumEventLevel
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_MinimumEventLevel_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.MinimumEventLevel
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.MinimumEventLevel
+  nameWithType: SentryNLogOptions.MinimumEventLevel
+- uid: Sentry.NLog.SentryNLogOptions.ReleaseLayout
+  name: ReleaseLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_ReleaseLayout
+  commentId: P:Sentry.NLog.SentryNLogOptions.ReleaseLayout
+  fullName: Sentry.NLog.SentryNLogOptions.ReleaseLayout
+  nameWithType: SentryNLogOptions.ReleaseLayout
+- uid: Sentry.NLog.SentryNLogOptions.ReleaseLayout*
+  name: ReleaseLayout
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_ReleaseLayout_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.ReleaseLayout
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.ReleaseLayout
+  nameWithType: SentryNLogOptions.ReleaseLayout
+- uid: Sentry.NLog.SentryNLogOptions.ShutdownTimeoutSeconds
+  name: ShutdownTimeoutSeconds
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_ShutdownTimeoutSeconds
+  commentId: P:Sentry.NLog.SentryNLogOptions.ShutdownTimeoutSeconds
+  fullName: Sentry.NLog.SentryNLogOptions.ShutdownTimeoutSeconds
+  nameWithType: SentryNLogOptions.ShutdownTimeoutSeconds
+- uid: Sentry.NLog.SentryNLogOptions.ShutdownTimeoutSeconds*
+  name: ShutdownTimeoutSeconds
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_ShutdownTimeoutSeconds_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.ShutdownTimeoutSeconds
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.ShutdownTimeoutSeconds
+  nameWithType: SentryNLogOptions.ShutdownTimeoutSeconds
+- uid: Sentry.NLog.SentryNLogOptions.Tags
+  name: Tags
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_Tags
+  commentId: P:Sentry.NLog.SentryNLogOptions.Tags
+  fullName: Sentry.NLog.SentryNLogOptions.Tags
+  nameWithType: SentryNLogOptions.Tags
+- uid: Sentry.NLog.SentryNLogOptions.Tags*
+  name: Tags
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_Tags_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.Tags
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.Tags
+  nameWithType: SentryNLogOptions.Tags
+- uid: Sentry.NLog.SentryNLogOptions.User
+  name: User
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_User
+  commentId: P:Sentry.NLog.SentryNLogOptions.User
+  fullName: Sentry.NLog.SentryNLogOptions.User
+  nameWithType: SentryNLogOptions.User
+- uid: Sentry.NLog.SentryNLogOptions.User*
+  name: User
+  href: api/Sentry.NLog.SentryNLogOptions.html#Sentry_NLog_SentryNLogOptions_User_
+  commentId: Overload:Sentry.NLog.SentryNLogOptions.User
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogOptions.User
+  nameWithType: SentryNLogOptions.User
+- uid: Sentry.NLog.SentryNLogUser
+  name: SentryNLogUser
+  href: api/Sentry.NLog.SentryNLogUser.html
+  commentId: T:Sentry.NLog.SentryNLogUser
+  fullName: Sentry.NLog.SentryNLogUser
+  nameWithType: SentryNLogUser
+- uid: Sentry.NLog.SentryNLogUser.Email
+  name: Email
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Email
+  commentId: P:Sentry.NLog.SentryNLogUser.Email
+  fullName: Sentry.NLog.SentryNLogUser.Email
+  nameWithType: SentryNLogUser.Email
+- uid: Sentry.NLog.SentryNLogUser.Email*
+  name: Email
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Email_
+  commentId: Overload:Sentry.NLog.SentryNLogUser.Email
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogUser.Email
+  nameWithType: SentryNLogUser.Email
+- uid: Sentry.NLog.SentryNLogUser.Id
+  name: Id
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Id
+  commentId: P:Sentry.NLog.SentryNLogUser.Id
+  fullName: Sentry.NLog.SentryNLogUser.Id
+  nameWithType: SentryNLogUser.Id
+- uid: Sentry.NLog.SentryNLogUser.Id*
+  name: Id
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Id_
+  commentId: Overload:Sentry.NLog.SentryNLogUser.Id
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogUser.Id
+  nameWithType: SentryNLogUser.Id
+- uid: Sentry.NLog.SentryNLogUser.IpAddress
+  name: IpAddress
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_IpAddress
+  commentId: P:Sentry.NLog.SentryNLogUser.IpAddress
+  fullName: Sentry.NLog.SentryNLogUser.IpAddress
+  nameWithType: SentryNLogUser.IpAddress
+- uid: Sentry.NLog.SentryNLogUser.IpAddress*
+  name: IpAddress
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_IpAddress_
+  commentId: Overload:Sentry.NLog.SentryNLogUser.IpAddress
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogUser.IpAddress
+  nameWithType: SentryNLogUser.IpAddress
+- uid: Sentry.NLog.SentryNLogUser.Other
+  name: Other
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Other
+  commentId: P:Sentry.NLog.SentryNLogUser.Other
+  fullName: Sentry.NLog.SentryNLogUser.Other
+  nameWithType: SentryNLogUser.Other
+- uid: Sentry.NLog.SentryNLogUser.Other*
+  name: Other
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Other_
+  commentId: Overload:Sentry.NLog.SentryNLogUser.Other
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogUser.Other
+  nameWithType: SentryNLogUser.Other
+- uid: Sentry.NLog.SentryNLogUser.Segment
+  name: Segment
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Segment
+  commentId: P:Sentry.NLog.SentryNLogUser.Segment
+  fullName: Sentry.NLog.SentryNLogUser.Segment
+  nameWithType: SentryNLogUser.Segment
+- uid: Sentry.NLog.SentryNLogUser.Segment*
+  name: Segment
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Segment_
+  commentId: Overload:Sentry.NLog.SentryNLogUser.Segment
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogUser.Segment
+  nameWithType: SentryNLogUser.Segment
+- uid: Sentry.NLog.SentryNLogUser.Username
+  name: Username
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Username
+  commentId: P:Sentry.NLog.SentryNLogUser.Username
+  fullName: Sentry.NLog.SentryNLogUser.Username
+  nameWithType: SentryNLogUser.Username
+- uid: Sentry.NLog.SentryNLogUser.Username*
+  name: Username
+  href: api/Sentry.NLog.SentryNLogUser.html#Sentry_NLog_SentryNLogUser_Username_
+  commentId: Overload:Sentry.NLog.SentryNLogUser.Username
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryNLogUser.Username
+  nameWithType: SentryNLogUser.Username
+- uid: Sentry.NLog.SentryTarget
+  name: SentryTarget
+  href: api/Sentry.NLog.SentryTarget.html
+  commentId: T:Sentry.NLog.SentryTarget
+  fullName: Sentry.NLog.SentryTarget
+  nameWithType: SentryTarget
+- uid: Sentry.NLog.SentryTarget.#ctor
+  name: SentryTarget()
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget__ctor
+  commentId: M:Sentry.NLog.SentryTarget.#ctor
+  fullName: Sentry.NLog.SentryTarget.SentryTarget()
+  nameWithType: SentryTarget.SentryTarget()
+- uid: Sentry.NLog.SentryTarget.#ctor(Sentry.NLog.SentryNLogOptions)
+  name: SentryTarget(SentryNLogOptions)
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget__ctor_Sentry_NLog_SentryNLogOptions_
+  commentId: M:Sentry.NLog.SentryTarget.#ctor(Sentry.NLog.SentryNLogOptions)
+  fullName: Sentry.NLog.SentryTarget.SentryTarget(Sentry.NLog.SentryNLogOptions)
+  nameWithType: SentryTarget.SentryTarget(SentryNLogOptions)
+- uid: Sentry.NLog.SentryTarget.#ctor*
+  name: SentryTarget
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget__ctor_
+  commentId: Overload:Sentry.NLog.SentryTarget.#ctor
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.SentryTarget
+  nameWithType: SentryTarget.SentryTarget
+- uid: Sentry.NLog.SentryTarget.BreadcrumbCategory
+  name: BreadcrumbCategory
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_BreadcrumbCategory
+  commentId: P:Sentry.NLog.SentryTarget.BreadcrumbCategory
+  fullName: Sentry.NLog.SentryTarget.BreadcrumbCategory
+  nameWithType: SentryTarget.BreadcrumbCategory
+- uid: Sentry.NLog.SentryTarget.BreadcrumbCategory*
+  name: BreadcrumbCategory
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_BreadcrumbCategory_
+  commentId: Overload:Sentry.NLog.SentryTarget.BreadcrumbCategory
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.BreadcrumbCategory
+  nameWithType: SentryTarget.BreadcrumbCategory
+- uid: Sentry.NLog.SentryTarget.BreadcrumbLayout
+  name: BreadcrumbLayout
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_BreadcrumbLayout
+  commentId: P:Sentry.NLog.SentryTarget.BreadcrumbLayout
+  fullName: Sentry.NLog.SentryTarget.BreadcrumbLayout
+  nameWithType: SentryTarget.BreadcrumbLayout
+- uid: Sentry.NLog.SentryTarget.BreadcrumbLayout*
+  name: BreadcrumbLayout
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_BreadcrumbLayout_
+  commentId: Overload:Sentry.NLog.SentryTarget.BreadcrumbLayout
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.BreadcrumbLayout
+  nameWithType: SentryTarget.BreadcrumbLayout
+- uid: Sentry.NLog.SentryTarget.CloseTarget
+  name: CloseTarget()
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_CloseTarget
+  commentId: M:Sentry.NLog.SentryTarget.CloseTarget
+  fullName: Sentry.NLog.SentryTarget.CloseTarget()
+  nameWithType: SentryTarget.CloseTarget()
+- uid: Sentry.NLog.SentryTarget.CloseTarget*
+  name: CloseTarget
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_CloseTarget_
+  commentId: Overload:Sentry.NLog.SentryTarget.CloseTarget
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.CloseTarget
+  nameWithType: SentryTarget.CloseTarget
+- uid: Sentry.NLog.SentryTarget.Dsn
+  name: Dsn
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Dsn
+  commentId: P:Sentry.NLog.SentryTarget.Dsn
+  fullName: Sentry.NLog.SentryTarget.Dsn
+  nameWithType: SentryTarget.Dsn
+- uid: Sentry.NLog.SentryTarget.Dsn*
+  name: Dsn
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Dsn_
+  commentId: Overload:Sentry.NLog.SentryTarget.Dsn
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.Dsn
+  nameWithType: SentryTarget.Dsn
+- uid: Sentry.NLog.SentryTarget.Environment
+  name: Environment
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Environment
+  commentId: P:Sentry.NLog.SentryTarget.Environment
+  fullName: Sentry.NLog.SentryTarget.Environment
+  nameWithType: SentryTarget.Environment
+- uid: Sentry.NLog.SentryTarget.Environment*
+  name: Environment
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Environment_
+  commentId: Overload:Sentry.NLog.SentryTarget.Environment
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.Environment
+  nameWithType: SentryTarget.Environment
+- uid: Sentry.NLog.SentryTarget.FlushAsync(AsyncContinuation)
+  name: FlushAsync(AsyncContinuation)
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_FlushAsync_AsyncContinuation_
+  commentId: M:Sentry.NLog.SentryTarget.FlushAsync(AsyncContinuation)
+  fullName: Sentry.NLog.SentryTarget.FlushAsync(AsyncContinuation)
+  nameWithType: SentryTarget.FlushAsync(AsyncContinuation)
+- uid: Sentry.NLog.SentryTarget.FlushAsync*
+  name: FlushAsync
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_FlushAsync_
+  commentId: Overload:Sentry.NLog.SentryTarget.FlushAsync
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.FlushAsync
+  nameWithType: SentryTarget.FlushAsync
+- uid: Sentry.NLog.SentryTarget.FlushTimeoutSeconds
+  name: FlushTimeoutSeconds
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_FlushTimeoutSeconds
+  commentId: P:Sentry.NLog.SentryTarget.FlushTimeoutSeconds
+  fullName: Sentry.NLog.SentryTarget.FlushTimeoutSeconds
+  nameWithType: SentryTarget.FlushTimeoutSeconds
+- uid: Sentry.NLog.SentryTarget.FlushTimeoutSeconds*
+  name: FlushTimeoutSeconds
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_FlushTimeoutSeconds_
+  commentId: Overload:Sentry.NLog.SentryTarget.FlushTimeoutSeconds
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.FlushTimeoutSeconds
+  nameWithType: SentryTarget.FlushTimeoutSeconds
+- uid: Sentry.NLog.SentryTarget.IgnoreEventsWithNoException
+  name: IgnoreEventsWithNoException
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_IgnoreEventsWithNoException
+  commentId: P:Sentry.NLog.SentryTarget.IgnoreEventsWithNoException
+  fullName: Sentry.NLog.SentryTarget.IgnoreEventsWithNoException
+  nameWithType: SentryTarget.IgnoreEventsWithNoException
+- uid: Sentry.NLog.SentryTarget.IgnoreEventsWithNoException*
+  name: IgnoreEventsWithNoException
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_IgnoreEventsWithNoException_
+  commentId: Overload:Sentry.NLog.SentryTarget.IgnoreEventsWithNoException
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.IgnoreEventsWithNoException
+  nameWithType: SentryTarget.IgnoreEventsWithNoException
+- uid: Sentry.NLog.SentryTarget.IncludeEventDataOnBreadcrumbs
+  name: IncludeEventDataOnBreadcrumbs
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_IncludeEventDataOnBreadcrumbs
+  commentId: P:Sentry.NLog.SentryTarget.IncludeEventDataOnBreadcrumbs
+  fullName: Sentry.NLog.SentryTarget.IncludeEventDataOnBreadcrumbs
+  nameWithType: SentryTarget.IncludeEventDataOnBreadcrumbs
+- uid: Sentry.NLog.SentryTarget.IncludeEventDataOnBreadcrumbs*
+  name: IncludeEventDataOnBreadcrumbs
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_IncludeEventDataOnBreadcrumbs_
+  commentId: Overload:Sentry.NLog.SentryTarget.IncludeEventDataOnBreadcrumbs
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.IncludeEventDataOnBreadcrumbs
+  nameWithType: SentryTarget.IncludeEventDataOnBreadcrumbs
+- uid: Sentry.NLog.SentryTarget.IncludeEventPropertiesAsTags
+  name: IncludeEventPropertiesAsTags
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_IncludeEventPropertiesAsTags
+  commentId: P:Sentry.NLog.SentryTarget.IncludeEventPropertiesAsTags
+  fullName: Sentry.NLog.SentryTarget.IncludeEventPropertiesAsTags
+  nameWithType: SentryTarget.IncludeEventPropertiesAsTags
+- uid: Sentry.NLog.SentryTarget.IncludeEventPropertiesAsTags*
+  name: IncludeEventPropertiesAsTags
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_IncludeEventPropertiesAsTags_
+  commentId: Overload:Sentry.NLog.SentryTarget.IncludeEventPropertiesAsTags
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.IncludeEventPropertiesAsTags
+  nameWithType: SentryTarget.IncludeEventPropertiesAsTags
+- uid: Sentry.NLog.SentryTarget.InitializeSdk
+  name: InitializeSdk
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_InitializeSdk
+  commentId: P:Sentry.NLog.SentryTarget.InitializeSdk
+  fullName: Sentry.NLog.SentryTarget.InitializeSdk
+  nameWithType: SentryTarget.InitializeSdk
+- uid: Sentry.NLog.SentryTarget.InitializeSdk*
+  name: InitializeSdk
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_InitializeSdk_
+  commentId: Overload:Sentry.NLog.SentryTarget.InitializeSdk
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.InitializeSdk
+  nameWithType: SentryTarget.InitializeSdk
+- uid: Sentry.NLog.SentryTarget.InitializeTarget
+  name: InitializeTarget()
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_InitializeTarget
+  commentId: M:Sentry.NLog.SentryTarget.InitializeTarget
+  fullName: Sentry.NLog.SentryTarget.InitializeTarget()
+  nameWithType: SentryTarget.InitializeTarget()
+- uid: Sentry.NLog.SentryTarget.InitializeTarget*
+  name: InitializeTarget
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_InitializeTarget_
+  commentId: Overload:Sentry.NLog.SentryTarget.InitializeTarget
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.InitializeTarget
+  nameWithType: SentryTarget.InitializeTarget
+- uid: Sentry.NLog.SentryTarget.MinimumBreadcrumbLevel
+  name: MinimumBreadcrumbLevel
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_MinimumBreadcrumbLevel
+  commentId: P:Sentry.NLog.SentryTarget.MinimumBreadcrumbLevel
+  fullName: Sentry.NLog.SentryTarget.MinimumBreadcrumbLevel
+  nameWithType: SentryTarget.MinimumBreadcrumbLevel
+- uid: Sentry.NLog.SentryTarget.MinimumBreadcrumbLevel*
+  name: MinimumBreadcrumbLevel
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_MinimumBreadcrumbLevel_
+  commentId: Overload:Sentry.NLog.SentryTarget.MinimumBreadcrumbLevel
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.MinimumBreadcrumbLevel
+  nameWithType: SentryTarget.MinimumBreadcrumbLevel
+- uid: Sentry.NLog.SentryTarget.MinimumEventLevel
+  name: MinimumEventLevel
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_MinimumEventLevel
+  commentId: P:Sentry.NLog.SentryTarget.MinimumEventLevel
+  fullName: Sentry.NLog.SentryTarget.MinimumEventLevel
+  nameWithType: SentryTarget.MinimumEventLevel
+- uid: Sentry.NLog.SentryTarget.MinimumEventLevel*
+  name: MinimumEventLevel
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_MinimumEventLevel_
+  commentId: Overload:Sentry.NLog.SentryTarget.MinimumEventLevel
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.MinimumEventLevel
+  nameWithType: SentryTarget.MinimumEventLevel
+- uid: Sentry.NLog.SentryTarget.Options
+  name: Options
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Options
+  commentId: P:Sentry.NLog.SentryTarget.Options
+  fullName: Sentry.NLog.SentryTarget.Options
+  nameWithType: SentryTarget.Options
+- uid: Sentry.NLog.SentryTarget.Options*
+  name: Options
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Options_
+  commentId: Overload:Sentry.NLog.SentryTarget.Options
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.Options
+  nameWithType: SentryTarget.Options
+- uid: Sentry.NLog.SentryTarget.Release
+  name: Release
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Release
+  commentId: P:Sentry.NLog.SentryTarget.Release
+  fullName: Sentry.NLog.SentryTarget.Release
+  nameWithType: SentryTarget.Release
+- uid: Sentry.NLog.SentryTarget.Release*
+  name: Release
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Release_
+  commentId: Overload:Sentry.NLog.SentryTarget.Release
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.Release
+  nameWithType: SentryTarget.Release
+- uid: Sentry.NLog.SentryTarget.ShutdownTimeoutSeconds
+  name: ShutdownTimeoutSeconds
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_ShutdownTimeoutSeconds
+  commentId: P:Sentry.NLog.SentryTarget.ShutdownTimeoutSeconds
+  fullName: Sentry.NLog.SentryTarget.ShutdownTimeoutSeconds
+  nameWithType: SentryTarget.ShutdownTimeoutSeconds
+- uid: Sentry.NLog.SentryTarget.ShutdownTimeoutSeconds*
+  name: ShutdownTimeoutSeconds
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_ShutdownTimeoutSeconds_
+  commentId: Overload:Sentry.NLog.SentryTarget.ShutdownTimeoutSeconds
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.ShutdownTimeoutSeconds
+  nameWithType: SentryTarget.ShutdownTimeoutSeconds
+- uid: Sentry.NLog.SentryTarget.Tags
+  name: Tags
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Tags
+  commentId: P:Sentry.NLog.SentryTarget.Tags
+  fullName: Sentry.NLog.SentryTarget.Tags
+  nameWithType: SentryTarget.Tags
+- uid: Sentry.NLog.SentryTarget.Tags*
+  name: Tags
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Tags_
+  commentId: Overload:Sentry.NLog.SentryTarget.Tags
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.Tags
+  nameWithType: SentryTarget.Tags
+- uid: Sentry.NLog.SentryTarget.User
+  name: User
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_User
+  commentId: P:Sentry.NLog.SentryTarget.User
+  fullName: Sentry.NLog.SentryTarget.User
+  nameWithType: SentryTarget.User
+- uid: Sentry.NLog.SentryTarget.User*
+  name: User
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_User_
+  commentId: Overload:Sentry.NLog.SentryTarget.User
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.User
+  nameWithType: SentryTarget.User
+- uid: Sentry.NLog.SentryTarget.Write(LogEventInfo)
+  name: Write(LogEventInfo)
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Write_LogEventInfo_
+  commentId: M:Sentry.NLog.SentryTarget.Write(LogEventInfo)
+  fullName: Sentry.NLog.SentryTarget.Write(LogEventInfo)
+  nameWithType: SentryTarget.Write(LogEventInfo)
+- uid: Sentry.NLog.SentryTarget.Write*
+  name: Write
+  href: api/Sentry.NLog.SentryTarget.html#Sentry_NLog_SentryTarget_Write_
+  commentId: Overload:Sentry.NLog.SentryTarget.Write
+  isSpec: "True"
+  fullName: Sentry.NLog.SentryTarget.Write
+  nameWithType: SentryTarget.Write
+- uid: Sentry.SentryOptionsDiagnosticExtensions
+  name: SentryOptionsDiagnosticExtensions
+  href: api/Sentry.SentryOptionsDiagnosticExtensions.html
+  commentId: T:Sentry.SentryOptionsDiagnosticExtensions
+  fullName: Sentry.SentryOptionsDiagnosticExtensions
+  nameWithType: SentryOptionsDiagnosticExtensions
+- uid: Sentry.SentryOptionsDiagnosticExtensions.AddDiagnosticSourceIntegration(SentryOptions)
+  name: AddDiagnosticSourceIntegration(SentryOptions)
+  href: api/Sentry.SentryOptionsDiagnosticExtensions.html#Sentry_SentryOptionsDiagnosticExtensions_AddDiagnosticSourceIntegration_SentryOptions_
+  commentId: M:Sentry.SentryOptionsDiagnosticExtensions.AddDiagnosticSourceIntegration(SentryOptions)
+  fullName: Sentry.SentryOptionsDiagnosticExtensions.AddDiagnosticSourceIntegration(SentryOptions)
+  nameWithType: SentryOptionsDiagnosticExtensions.AddDiagnosticSourceIntegration(SentryOptions)
+- uid: Sentry.SentryOptionsDiagnosticExtensions.AddDiagnosticSourceIntegration*
+  name: AddDiagnosticSourceIntegration
+  href: api/Sentry.SentryOptionsDiagnosticExtensions.html#Sentry_SentryOptionsDiagnosticExtensions_AddDiagnosticSourceIntegration_
+  commentId: Overload:Sentry.SentryOptionsDiagnosticExtensions.AddDiagnosticSourceIntegration
+  isSpec: "True"
+  fullName: Sentry.SentryOptionsDiagnosticExtensions.AddDiagnosticSourceIntegration
+  nameWithType: SentryOptionsDiagnosticExtensions.AddDiagnosticSourceIntegration
+- uid: Sentry.SentryOptionsDiagnosticExtensions.DisableDiagnosticSourceIntegration(SentryOptions)
+  name: DisableDiagnosticSourceIntegration(SentryOptions)
+  href: api/Sentry.SentryOptionsDiagnosticExtensions.html#Sentry_SentryOptionsDiagnosticExtensions_DisableDiagnosticSourceIntegration_SentryOptions_
+  commentId: M:Sentry.SentryOptionsDiagnosticExtensions.DisableDiagnosticSourceIntegration(SentryOptions)
+  fullName: Sentry.SentryOptionsDiagnosticExtensions.DisableDiagnosticSourceIntegration(SentryOptions)
+  nameWithType: SentryOptionsDiagnosticExtensions.DisableDiagnosticSourceIntegration(SentryOptions)
+- uid: Sentry.SentryOptionsDiagnosticExtensions.DisableDiagnosticSourceIntegration*
+  name: DisableDiagnosticSourceIntegration
+  href: api/Sentry.SentryOptionsDiagnosticExtensions.html#Sentry_SentryOptionsDiagnosticExtensions_DisableDiagnosticSourceIntegration_
+  commentId: Overload:Sentry.SentryOptionsDiagnosticExtensions.DisableDiagnosticSourceIntegration
+  isSpec: "True"
+  fullName: Sentry.SentryOptionsDiagnosticExtensions.DisableDiagnosticSourceIntegration
+  nameWithType: SentryOptionsDiagnosticExtensions.DisableDiagnosticSourceIntegration
+- uid: Sentry.SentryOptionsExtensions
+  name: SentryOptionsExtensions
+  href: api/Sentry.SentryOptionsExtensions.html
+  commentId: T:Sentry.SentryOptionsExtensions
+  fullName: Sentry.SentryOptionsExtensions
+  nameWithType: SentryOptionsExtensions
+- uid: Sentry.SentryOptionsExtensions.AddEntityFramework(SentryOptions)
+  name: AddEntityFramework(SentryOptions)
+  href: api/Sentry.SentryOptionsExtensions.html#Sentry_SentryOptionsExtensions_AddEntityFramework_SentryOptions_
+  commentId: M:Sentry.SentryOptionsExtensions.AddEntityFramework(SentryOptions)
+  fullName: Sentry.SentryOptionsExtensions.AddEntityFramework(SentryOptions)
+  nameWithType: SentryOptionsExtensions.AddEntityFramework(SentryOptions)
+- uid: Sentry.SentryOptionsExtensions.AddEntityFramework*
+  name: AddEntityFramework
+  href: api/Sentry.SentryOptionsExtensions.html#Sentry_SentryOptionsExtensions_AddEntityFramework_
+  commentId: Overload:Sentry.SentryOptionsExtensions.AddEntityFramework
+  isSpec: "True"
+  fullName: Sentry.SentryOptionsExtensions.AddEntityFramework
+  nameWithType: SentryOptionsExtensions.AddEntityFramework
+- uid: Sentry.SentryOptionsExtensions.DisableDbInterceptionIntegration(SentryOptions)
+  name: DisableDbInterceptionIntegration(SentryOptions)
+  href: api/Sentry.SentryOptionsExtensions.html#Sentry_SentryOptionsExtensions_DisableDbInterceptionIntegration_SentryOptions_
+  commentId: M:Sentry.SentryOptionsExtensions.DisableDbInterceptionIntegration(SentryOptions)
+  fullName: Sentry.SentryOptionsExtensions.DisableDbInterceptionIntegration(SentryOptions)
+  nameWithType: SentryOptionsExtensions.DisableDbInterceptionIntegration(SentryOptions)
+- uid: Sentry.SentryOptionsExtensions.DisableDbInterceptionIntegration*
+  name: DisableDbInterceptionIntegration
+  href: api/Sentry.SentryOptionsExtensions.html#Sentry_SentryOptionsExtensions_DisableDbInterceptionIntegration_
+  commentId: Overload:Sentry.SentryOptionsExtensions.DisableDbInterceptionIntegration
+  isSpec: "True"
+  fullName: Sentry.SentryOptionsExtensions.DisableDbInterceptionIntegration
+  nameWithType: SentryOptionsExtensions.DisableDbInterceptionIntegration
+- uid: Sentry.Serilog
+  name: Sentry.Serilog
+  href: api/Sentry.Serilog.html
+  commentId: N:Sentry.Serilog
+  fullName: Sentry.Serilog
+  nameWithType: Sentry.Serilog
+- uid: Sentry.Serilog.SentrySerilogOptions
+  name: SentrySerilogOptions
+  href: api/Sentry.Serilog.SentrySerilogOptions.html
+  commentId: T:Sentry.Serilog.SentrySerilogOptions
+  fullName: Sentry.Serilog.SentrySerilogOptions
+  nameWithType: SentrySerilogOptions
+- uid: Sentry.Serilog.SentrySerilogOptions.FormatProvider
+  name: FormatProvider
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_FormatProvider
+  commentId: P:Sentry.Serilog.SentrySerilogOptions.FormatProvider
+  fullName: Sentry.Serilog.SentrySerilogOptions.FormatProvider
+  nameWithType: SentrySerilogOptions.FormatProvider
+- uid: Sentry.Serilog.SentrySerilogOptions.FormatProvider*
+  name: FormatProvider
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_FormatProvider_
+  commentId: Overload:Sentry.Serilog.SentrySerilogOptions.FormatProvider
+  isSpec: "True"
+  fullName: Sentry.Serilog.SentrySerilogOptions.FormatProvider
+  nameWithType: SentrySerilogOptions.FormatProvider
+- uid: Sentry.Serilog.SentrySerilogOptions.InitializeSdk
+  name: InitializeSdk
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_InitializeSdk
+  commentId: P:Sentry.Serilog.SentrySerilogOptions.InitializeSdk
+  fullName: Sentry.Serilog.SentrySerilogOptions.InitializeSdk
+  nameWithType: SentrySerilogOptions.InitializeSdk
+- uid: Sentry.Serilog.SentrySerilogOptions.InitializeSdk*
+  name: InitializeSdk
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_InitializeSdk_
+  commentId: Overload:Sentry.Serilog.SentrySerilogOptions.InitializeSdk
+  isSpec: "True"
+  fullName: Sentry.Serilog.SentrySerilogOptions.InitializeSdk
+  nameWithType: SentrySerilogOptions.InitializeSdk
+- uid: Sentry.Serilog.SentrySerilogOptions.MinimumBreadcrumbLevel
+  name: MinimumBreadcrumbLevel
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_MinimumBreadcrumbLevel
+  commentId: P:Sentry.Serilog.SentrySerilogOptions.MinimumBreadcrumbLevel
+  fullName: Sentry.Serilog.SentrySerilogOptions.MinimumBreadcrumbLevel
+  nameWithType: SentrySerilogOptions.MinimumBreadcrumbLevel
+- uid: Sentry.Serilog.SentrySerilogOptions.MinimumBreadcrumbLevel*
+  name: MinimumBreadcrumbLevel
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_MinimumBreadcrumbLevel_
+  commentId: Overload:Sentry.Serilog.SentrySerilogOptions.MinimumBreadcrumbLevel
+  isSpec: "True"
+  fullName: Sentry.Serilog.SentrySerilogOptions.MinimumBreadcrumbLevel
+  nameWithType: SentrySerilogOptions.MinimumBreadcrumbLevel
+- uid: Sentry.Serilog.SentrySerilogOptions.MinimumEventLevel
+  name: MinimumEventLevel
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_MinimumEventLevel
+  commentId: P:Sentry.Serilog.SentrySerilogOptions.MinimumEventLevel
+  fullName: Sentry.Serilog.SentrySerilogOptions.MinimumEventLevel
+  nameWithType: SentrySerilogOptions.MinimumEventLevel
+- uid: Sentry.Serilog.SentrySerilogOptions.MinimumEventLevel*
+  name: MinimumEventLevel
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_MinimumEventLevel_
+  commentId: Overload:Sentry.Serilog.SentrySerilogOptions.MinimumEventLevel
+  isSpec: "True"
+  fullName: Sentry.Serilog.SentrySerilogOptions.MinimumEventLevel
+  nameWithType: SentrySerilogOptions.MinimumEventLevel
+- uid: Sentry.Serilog.SentrySerilogOptions.TextFormatter
+  name: TextFormatter
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_TextFormatter
+  commentId: P:Sentry.Serilog.SentrySerilogOptions.TextFormatter
+  fullName: Sentry.Serilog.SentrySerilogOptions.TextFormatter
+  nameWithType: SentrySerilogOptions.TextFormatter
+- uid: Sentry.Serilog.SentrySerilogOptions.TextFormatter*
+  name: TextFormatter
+  href: api/Sentry.Serilog.SentrySerilogOptions.html#Sentry_Serilog_SentrySerilogOptions_TextFormatter_
+  commentId: Overload:Sentry.Serilog.SentrySerilogOptions.TextFormatter
+  isSpec: "True"
+  fullName: Sentry.Serilog.SentrySerilogOptions.TextFormatter
+  nameWithType: SentrySerilogOptions.TextFormatter
+- uid: Sentry.Tunnel
+  name: Sentry.Tunnel
+  href: api/Sentry.Tunnel.html
+  commentId: N:Sentry.Tunnel
+  fullName: Sentry.Tunnel
+  nameWithType: Sentry.Tunnel
+- uid: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions
+  name: SentryTunnelingApplicationBuilderExtensions
+  href: api/Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.html
+  commentId: T:Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions
+  fullName: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions
+  nameWithType: SentryTunnelingApplicationBuilderExtensions
+- uid: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling(IServiceCollection,System.String[])
+  name: AddSentryTunneling(IServiceCollection, String[])
+  href: api/Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.html#Sentry_Tunnel_SentryTunnelingApplicationBuilderExtensions_AddSentryTunneling_IServiceCollection_System_String___
+  commentId: M:Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling(IServiceCollection,System.String[])
+  name.vb: AddSentryTunneling(IServiceCollection, String())
+  fullName: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling(IServiceCollection, System.String[])
+  fullName.vb: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling(IServiceCollection, System.String())
+  nameWithType: SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling(IServiceCollection, String[])
+  nameWithType.vb: SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling(IServiceCollection, String())
+- uid: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling*
+  name: AddSentryTunneling
+  href: api/Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.html#Sentry_Tunnel_SentryTunnelingApplicationBuilderExtensions_AddSentryTunneling_
+  commentId: Overload:Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling
+  isSpec: "True"
+  fullName: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling
+  nameWithType: SentryTunnelingApplicationBuilderExtensions.AddSentryTunneling
+- uid: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.UseSentryTunneling(IApplicationBuilder,System.String)
+  name: UseSentryTunneling(IApplicationBuilder, String)
+  href: api/Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.html#Sentry_Tunnel_SentryTunnelingApplicationBuilderExtensions_UseSentryTunneling_IApplicationBuilder_System_String_
+  commentId: M:Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.UseSentryTunneling(IApplicationBuilder,System.String)
+  fullName: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.UseSentryTunneling(IApplicationBuilder, System.String)
+  nameWithType: SentryTunnelingApplicationBuilderExtensions.UseSentryTunneling(IApplicationBuilder, String)
+- uid: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.UseSentryTunneling*
+  name: UseSentryTunneling
+  href: api/Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.html#Sentry_Tunnel_SentryTunnelingApplicationBuilderExtensions_UseSentryTunneling_
+  commentId: Overload:Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.UseSentryTunneling
+  isSpec: "True"
+  fullName: Sentry.Tunnel.SentryTunnelingApplicationBuilderExtensions.UseSentryTunneling
+  nameWithType: SentryTunnelingApplicationBuilderExtensions.UseSentryTunneling
+- uid: Sentry.Tunnel.SentryTunnelMiddleware
+  name: SentryTunnelMiddleware
+  href: api/Sentry.Tunnel.SentryTunnelMiddleware.html
+  commentId: T:Sentry.Tunnel.SentryTunnelMiddleware
+  fullName: Sentry.Tunnel.SentryTunnelMiddleware
+  nameWithType: SentryTunnelMiddleware
+- uid: Sentry.Tunnel.SentryTunnelMiddleware.#ctor(System.String[])
+  name: SentryTunnelMiddleware(String[])
+  href: api/Sentry.Tunnel.SentryTunnelMiddleware.html#Sentry_Tunnel_SentryTunnelMiddleware__ctor_System_String___
+  commentId: M:Sentry.Tunnel.SentryTunnelMiddleware.#ctor(System.String[])
+  name.vb: SentryTunnelMiddleware(String())
+  fullName: Sentry.Tunnel.SentryTunnelMiddleware.SentryTunnelMiddleware(System.String[])
+  fullName.vb: Sentry.Tunnel.SentryTunnelMiddleware.SentryTunnelMiddleware(System.String())
+  nameWithType: SentryTunnelMiddleware.SentryTunnelMiddleware(String[])
+  nameWithType.vb: SentryTunnelMiddleware.SentryTunnelMiddleware(String())
+- uid: Sentry.Tunnel.SentryTunnelMiddleware.#ctor*
+  name: SentryTunnelMiddleware
+  href: api/Sentry.Tunnel.SentryTunnelMiddleware.html#Sentry_Tunnel_SentryTunnelMiddleware__ctor_
+  commentId: Overload:Sentry.Tunnel.SentryTunnelMiddleware.#ctor
+  isSpec: "True"
+  fullName: Sentry.Tunnel.SentryTunnelMiddleware.SentryTunnelMiddleware
+  nameWithType: SentryTunnelMiddleware.SentryTunnelMiddleware
+- uid: Serilog
+  name: Serilog
+  href: api/Serilog.html
+  commentId: N:Serilog
+  fullName: Serilog
+  nameWithType: Serilog
+- uid: Serilog.SentrySinkExtensions
+  name: SentrySinkExtensions
+  href: api/Serilog.SentrySinkExtensions.html
+  commentId: T:Serilog.SentrySinkExtensions
+  fullName: Serilog.SentrySinkExtensions
+  nameWithType: SentrySinkExtensions
+- uid: Serilog.SentrySinkExtensions.ConfigureSentrySerilogOptions(SentrySerilogOptions,System.Nullable{System.String},System.Nullable{LogEventLevel},System.Nullable{LogEventLevel},System.Nullable{IFormatProvider},System.Nullable{ITextFormatter},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.String},System.Nullable{System.Boolean},System.Nullable{System.Int32},System.Nullable{System.Single},System.Nullable{System.String},System.Nullable{System.String},System.Nullable{System.Int32},System.Nullable{TimeSpan},System.Nullable{DecompressionMethods},System.Nullable{CompressionLevel},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{SentryLevel},System.Nullable{System.Boolean},System.Nullable{DeduplicateMode},System.Nullable{System.Boolean},System.Nullable{Dictionary{System.String,System.String}})
+  name: ConfigureSentrySerilogOptions(SentrySerilogOptions, Nullable<String>, Nullable<LogEventLevel>, Nullable<LogEventLevel>, Nullable<IFormatProvider>, Nullable<ITextFormatter>, Nullable<Boolean>, Nullable<Boolean>, Nullable<String>, Nullable<Boolean>, Nullable<Int32>, Nullable<Single>, Nullable<String>, Nullable<String>, Nullable<Int32>, Nullable<TimeSpan>, Nullable<DecompressionMethods>, Nullable<CompressionLevel>, Nullable<Boolean>, Nullable<Boolean>, Nullable<SentryLevel>, Nullable<Boolean>, Nullable<DeduplicateMode>, Nullable<Boolean>, Nullable<Dictionary<String, String>>)
+  href: api/Serilog.SentrySinkExtensions.html#Serilog_SentrySinkExtensions_ConfigureSentrySerilogOptions_SentrySerilogOptions_System_Nullable_System_String__System_Nullable_LogEventLevel__System_Nullable_LogEventLevel__System_Nullable_IFormatProvider__System_Nullable_ITextFormatter__System_Nullable_System_Boolean__System_Nullable_System_Boolean__System_Nullable_System_String__System_Nullable_System_Boolean__System_Nullable_System_Int32__System_Nullable_System_Single__System_Nullable_System_String__System_Nullable_System_String__System_Nullable_System_Int32__System_Nullable_TimeSpan__System_Nullable_DecompressionMethods__System_Nullable_CompressionLevel__System_Nullable_System_Boolean__System_Nullable_System_Boolean__System_Nullable_SentryLevel__System_Nullable_System_Boolean__System_Nullable_DeduplicateMode__System_Nullable_System_Boolean__System_Nullable_Dictionary_System_String_System_String___
+  commentId: M:Serilog.SentrySinkExtensions.ConfigureSentrySerilogOptions(SentrySerilogOptions,System.Nullable{System.String},System.Nullable{LogEventLevel},System.Nullable{LogEventLevel},System.Nullable{IFormatProvider},System.Nullable{ITextFormatter},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.String},System.Nullable{System.Boolean},System.Nullable{System.Int32},System.Nullable{System.Single},System.Nullable{System.String},System.Nullable{System.String},System.Nullable{System.Int32},System.Nullable{TimeSpan},System.Nullable{DecompressionMethods},System.Nullable{CompressionLevel},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{SentryLevel},System.Nullable{System.Boolean},System.Nullable{DeduplicateMode},System.Nullable{System.Boolean},System.Nullable{Dictionary{System.String,System.String}})
+  name.vb: ConfigureSentrySerilogOptions(SentrySerilogOptions, Nullable(Of String), Nullable(Of LogEventLevel), Nullable(Of LogEventLevel), Nullable(Of IFormatProvider), Nullable(Of ITextFormatter), Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of String), Nullable(Of Boolean), Nullable(Of Int32), Nullable(Of Single), Nullable(Of String), Nullable(Of String), Nullable(Of Int32), Nullable(Of TimeSpan), Nullable(Of DecompressionMethods), Nullable(Of CompressionLevel), Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of SentryLevel), Nullable(Of Boolean), Nullable(Of DeduplicateMode), Nullable(Of Boolean), Nullable(Of Dictionary(Of String, String)))
+  fullName: Serilog.SentrySinkExtensions.ConfigureSentrySerilogOptions(SentrySerilogOptions, System.Nullable<System.String>, System.Nullable<LogEventLevel>, System.Nullable<LogEventLevel>, System.Nullable<IFormatProvider>, System.Nullable<ITextFormatter>, System.Nullable<System.Boolean>, System.Nullable<System.Boolean>, System.Nullable<System.String>, System.Nullable<System.Boolean>, System.Nullable<System.Int32>, System.Nullable<System.Single>, System.Nullable<System.String>, System.Nullable<System.String>, System.Nullable<System.Int32>, System.Nullable<TimeSpan>, System.Nullable<DecompressionMethods>, System.Nullable<CompressionLevel>, System.Nullable<System.Boolean>, System.Nullable<System.Boolean>, System.Nullable<SentryLevel>, System.Nullable<System.Boolean>, System.Nullable<DeduplicateMode>, System.Nullable<System.Boolean>, System.Nullable<Dictionary<System.String, System.String>>)
+  fullName.vb: Serilog.SentrySinkExtensions.ConfigureSentrySerilogOptions(SentrySerilogOptions, System.Nullable(Of System.String), System.Nullable(Of LogEventLevel), System.Nullable(Of LogEventLevel), System.Nullable(Of IFormatProvider), System.Nullable(Of ITextFormatter), System.Nullable(Of System.Boolean), System.Nullable(Of System.Boolean), System.Nullable(Of System.String), System.Nullable(Of System.Boolean), System.Nullable(Of System.Int32), System.Nullable(Of System.Single), System.Nullable(Of System.String), System.Nullable(Of System.String), System.Nullable(Of System.Int32), System.Nullable(Of TimeSpan), System.Nullable(Of DecompressionMethods), System.Nullable(Of CompressionLevel), System.Nullable(Of System.Boolean), System.Nullable(Of System.Boolean), System.Nullable(Of SentryLevel), System.Nullable(Of System.Boolean), System.Nullable(Of DeduplicateMode), System.Nullable(Of System.Boolean), System.Nullable(Of Dictionary(Of System.String, System.String)))
+  nameWithType: SentrySinkExtensions.ConfigureSentrySerilogOptions(SentrySerilogOptions, Nullable<String>, Nullable<LogEventLevel>, Nullable<LogEventLevel>, Nullable<IFormatProvider>, Nullable<ITextFormatter>, Nullable<Boolean>, Nullable<Boolean>, Nullable<String>, Nullable<Boolean>, Nullable<Int32>, Nullable<Single>, Nullable<String>, Nullable<String>, Nullable<Int32>, Nullable<TimeSpan>, Nullable<DecompressionMethods>, Nullable<CompressionLevel>, Nullable<Boolean>, Nullable<Boolean>, Nullable<SentryLevel>, Nullable<Boolean>, Nullable<DeduplicateMode>, Nullable<Boolean>, Nullable<Dictionary<String, String>>)
+  nameWithType.vb: SentrySinkExtensions.ConfigureSentrySerilogOptions(SentrySerilogOptions, Nullable(Of String), Nullable(Of LogEventLevel), Nullable(Of LogEventLevel), Nullable(Of IFormatProvider), Nullable(Of ITextFormatter), Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of String), Nullable(Of Boolean), Nullable(Of Int32), Nullable(Of Single), Nullable(Of String), Nullable(Of String), Nullable(Of Int32), Nullable(Of TimeSpan), Nullable(Of DecompressionMethods), Nullable(Of CompressionLevel), Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of SentryLevel), Nullable(Of Boolean), Nullable(Of DeduplicateMode), Nullable(Of Boolean), Nullable(Of Dictionary(Of String, String)))
+- uid: Serilog.SentrySinkExtensions.ConfigureSentrySerilogOptions*
+  name: ConfigureSentrySerilogOptions
+  href: api/Serilog.SentrySinkExtensions.html#Serilog_SentrySinkExtensions_ConfigureSentrySerilogOptions_
+  commentId: Overload:Serilog.SentrySinkExtensions.ConfigureSentrySerilogOptions
+  isSpec: "True"
+  fullName: Serilog.SentrySinkExtensions.ConfigureSentrySerilogOptions
+  nameWithType: SentrySinkExtensions.ConfigureSentrySerilogOptions
+- uid: Serilog.SentrySinkExtensions.Sentry(LoggerSinkConfiguration,Action{SentrySerilogOptions})
+  name: Sentry(LoggerSinkConfiguration, Action<SentrySerilogOptions>)
+  href: api/Serilog.SentrySinkExtensions.html#Serilog_SentrySinkExtensions_Sentry_LoggerSinkConfiguration_Action_SentrySerilogOptions__
+  commentId: M:Serilog.SentrySinkExtensions.Sentry(LoggerSinkConfiguration,Action{SentrySerilogOptions})
+  name.vb: Sentry(LoggerSinkConfiguration, Action(Of SentrySerilogOptions))
+  fullName: Serilog.SentrySinkExtensions.Sentry(LoggerSinkConfiguration, Action<SentrySerilogOptions>)
+  fullName.vb: Serilog.SentrySinkExtensions.Sentry(LoggerSinkConfiguration, Action(Of SentrySerilogOptions))
+  nameWithType: SentrySinkExtensions.Sentry(LoggerSinkConfiguration, Action<SentrySerilogOptions>)
+  nameWithType.vb: SentrySinkExtensions.Sentry(LoggerSinkConfiguration, Action(Of SentrySerilogOptions))
+- uid: Serilog.SentrySinkExtensions.Sentry(LoggerSinkConfiguration,System.Nullable{System.String},LogEventLevel,LogEventLevel,System.Nullable{IFormatProvider},System.Nullable{ITextFormatter},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.String},System.Nullable{System.Boolean},System.Nullable{System.Int32},System.Nullable{System.Single},System.Nullable{System.String},System.Nullable{System.String},System.Nullable{System.Int32},System.Nullable{TimeSpan},System.Nullable{DecompressionMethods},System.Nullable{CompressionLevel},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{SentryLevel},System.Nullable{System.Boolean},System.Nullable{DeduplicateMode},System.Nullable{System.Boolean},System.Nullable{Dictionary{System.String,System.String}})
+  name: Sentry(LoggerSinkConfiguration, Nullable<String>, LogEventLevel, LogEventLevel, Nullable<IFormatProvider>, Nullable<ITextFormatter>, Nullable<Boolean>, Nullable<Boolean>, Nullable<String>, Nullable<Boolean>, Nullable<Int32>, Nullable<Single>, Nullable<String>, Nullable<String>, Nullable<Int32>, Nullable<TimeSpan>, Nullable<DecompressionMethods>, Nullable<CompressionLevel>, Nullable<Boolean>, Nullable<Boolean>, Nullable<SentryLevel>, Nullable<Boolean>, Nullable<DeduplicateMode>, Nullable<Boolean>, Nullable<Dictionary<String, String>>)
+  href: api/Serilog.SentrySinkExtensions.html#Serilog_SentrySinkExtensions_Sentry_LoggerSinkConfiguration_System_Nullable_System_String__LogEventLevel_LogEventLevel_System_Nullable_IFormatProvider__System_Nullable_ITextFormatter__System_Nullable_System_Boolean__System_Nullable_System_Boolean__System_Nullable_System_String__System_Nullable_System_Boolean__System_Nullable_System_Int32__System_Nullable_System_Single__System_Nullable_System_String__System_Nullable_System_String__System_Nullable_System_Int32__System_Nullable_TimeSpan__System_Nullable_DecompressionMethods__System_Nullable_CompressionLevel__System_Nullable_System_Boolean__System_Nullable_System_Boolean__System_Nullable_SentryLevel__System_Nullable_System_Boolean__System_Nullable_DeduplicateMode__System_Nullable_System_Boolean__System_Nullable_Dictionary_System_String_System_String___
+  commentId: M:Serilog.SentrySinkExtensions.Sentry(LoggerSinkConfiguration,System.Nullable{System.String},LogEventLevel,LogEventLevel,System.Nullable{IFormatProvider},System.Nullable{ITextFormatter},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{System.String},System.Nullable{System.Boolean},System.Nullable{System.Int32},System.Nullable{System.Single},System.Nullable{System.String},System.Nullable{System.String},System.Nullable{System.Int32},System.Nullable{TimeSpan},System.Nullable{DecompressionMethods},System.Nullable{CompressionLevel},System.Nullable{System.Boolean},System.Nullable{System.Boolean},System.Nullable{SentryLevel},System.Nullable{System.Boolean},System.Nullable{DeduplicateMode},System.Nullable{System.Boolean},System.Nullable{Dictionary{System.String,System.String}})
+  name.vb: Sentry(LoggerSinkConfiguration, Nullable(Of String), LogEventLevel, LogEventLevel, Nullable(Of IFormatProvider), Nullable(Of ITextFormatter), Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of String), Nullable(Of Boolean), Nullable(Of Int32), Nullable(Of Single), Nullable(Of String), Nullable(Of String), Nullable(Of Int32), Nullable(Of TimeSpan), Nullable(Of DecompressionMethods), Nullable(Of CompressionLevel), Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of SentryLevel), Nullable(Of Boolean), Nullable(Of DeduplicateMode), Nullable(Of Boolean), Nullable(Of Dictionary(Of String, String)))
+  fullName: Serilog.SentrySinkExtensions.Sentry(LoggerSinkConfiguration, System.Nullable<System.String>, LogEventLevel, LogEventLevel, System.Nullable<IFormatProvider>, System.Nullable<ITextFormatter>, System.Nullable<System.Boolean>, System.Nullable<System.Boolean>, System.Nullable<System.String>, System.Nullable<System.Boolean>, System.Nullable<System.Int32>, System.Nullable<System.Single>, System.Nullable<System.String>, System.Nullable<System.String>, System.Nullable<System.Int32>, System.Nullable<TimeSpan>, System.Nullable<DecompressionMethods>, System.Nullable<CompressionLevel>, System.Nullable<System.Boolean>, System.Nullable<System.Boolean>, System.Nullable<SentryLevel>, System.Nullable<System.Boolean>, System.Nullable<DeduplicateMode>, System.Nullable<System.Boolean>, System.Nullable<Dictionary<System.String, System.String>>)
+  fullName.vb: Serilog.SentrySinkExtensions.Sentry(LoggerSinkConfiguration, System.Nullable(Of System.String), LogEventLevel, LogEventLevel, System.Nullable(Of IFormatProvider), System.Nullable(Of ITextFormatter), System.Nullable(Of System.Boolean), System.Nullable(Of System.Boolean), System.Nullable(Of System.String), System.Nullable(Of System.Boolean), System.Nullable(Of System.Int32), System.Nullable(Of System.Single), System.Nullable(Of System.String), System.Nullable(Of System.String), System.Nullable(Of System.Int32), System.Nullable(Of TimeSpan), System.Nullable(Of DecompressionMethods), System.Nullable(Of CompressionLevel), System.Nullable(Of System.Boolean), System.Nullable(Of System.Boolean), System.Nullable(Of SentryLevel), System.Nullable(Of System.Boolean), System.Nullable(Of DeduplicateMode), System.Nullable(Of System.Boolean), System.Nullable(Of Dictionary(Of System.String, System.String)))
+  nameWithType: SentrySinkExtensions.Sentry(LoggerSinkConfiguration, Nullable<String>, LogEventLevel, LogEventLevel, Nullable<IFormatProvider>, Nullable<ITextFormatter>, Nullable<Boolean>, Nullable<Boolean>, Nullable<String>, Nullable<Boolean>, Nullable<Int32>, Nullable<Single>, Nullable<String>, Nullable<String>, Nullable<Int32>, Nullable<TimeSpan>, Nullable<DecompressionMethods>, Nullable<CompressionLevel>, Nullable<Boolean>, Nullable<Boolean>, Nullable<SentryLevel>, Nullable<Boolean>, Nullable<DeduplicateMode>, Nullable<Boolean>, Nullable<Dictionary<String, String>>)
+  nameWithType.vb: SentrySinkExtensions.Sentry(LoggerSinkConfiguration, Nullable(Of String), LogEventLevel, LogEventLevel, Nullable(Of IFormatProvider), Nullable(Of ITextFormatter), Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of String), Nullable(Of Boolean), Nullable(Of Int32), Nullable(Of Single), Nullable(Of String), Nullable(Of String), Nullable(Of Int32), Nullable(Of TimeSpan), Nullable(Of DecompressionMethods), Nullable(Of CompressionLevel), Nullable(Of Boolean), Nullable(Of Boolean), Nullable(Of SentryLevel), Nullable(Of Boolean), Nullable(Of DeduplicateMode), Nullable(Of Boolean), Nullable(Of Dictionary(Of String, String)))
+- uid: Serilog.SentrySinkExtensions.Sentry*
+  name: Sentry
+  href: api/Serilog.SentrySinkExtensions.html#Serilog_SentrySinkExtensions_Sentry_
+  commentId: Overload:Serilog.SentrySinkExtensions.Sentry
+  isSpec: "True"
+  fullName: Serilog.SentrySinkExtensions.Sentry
+  nameWithType: SentrySinkExtensions.Sentry
